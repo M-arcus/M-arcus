@@ -9,7 +9,4 @@ PHP FinTS/HBCI:
  - [PHP FinTS wrapper](https://github.com/M-arcus/php-fints-wrapper)
 
 CI Docker images:
- - [Rector](https://github.com/M-arcus/php-rector-docker)
- - [PHPStan](https://github.com/M-arcus/php-phpstan-docker)
- - [PHP Mess Detector](https://github.com/M-arcus/php-mess-detector-docker)
- - [PHP CS Fixer](https://github.com/M-arcus/php-cs-fixer-docker) (forked)
+ - [PHP Codestyle Swissknife](https://github.com/M-arcus/php-codestyle-swissknife-docker)
