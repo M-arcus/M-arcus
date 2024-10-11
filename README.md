@@ -41,6 +41,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (4 days ago)
 - [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (4 days ago)
 - [Add use statements for PHP CS Fixer](https://github.com/shopware/recipes/pull/130) on [shopware/recipes](https://github.com/shopware/recipes) (1 week ago)
@@ -50,4 +51,3 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add explanation for sitemap configuration](https://github.com/shopware/docs/pull/1481) on [shopware/docs](https://github.com/shopware/docs) (3 weeks ago)
 - [NEXT-00000 - Remove force option from es:index:cleanup command](https://github.com/shopware/shopware/pull/4728) on [shopware/shopware](https://github.com/shopware/shopware) (4 weeks ago)
 - [Fix path for ddev instuctions](https://github.com/FriendsOfShopware/shopware-cli/pull/410) on [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) (4 weeks ago)
-- [[Process] Fix the removal of host-specific configuration when managing the ini settings in `PhpSubprocess`](https://github.com/symfony/symfony/pull/58195) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
