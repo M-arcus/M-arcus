@@ -28,12 +28,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.11.1](https://github.com/mollie/Shopware6/releases/tag/v4.11.1), 2 days ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.11.1](https://github.com/mollie/Shopware6/releases/tag/v4.11.1), 3 days ago) - 
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.55](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.55), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.3](https://github.com/cachix/devenv/releases/tag/v1.3), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.7](https://github.com/shopware/deployment-helper/releases/tag/0.0.7), 1 week ago) - 
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.2](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.2), 2 weeks ago) - Plugin checkout solution for Shopware 6
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 2 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 3 weeks ago) - The Symfony PHP framework
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v1.4.3](https://github.com/actions/attest-build-provenance/releases/tag/v1.4.3), 1 month ago) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.3.0), 1 month ago) - A collection of useful tools for Shopware 6
@@ -41,9 +41,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (4 days ago)
-- [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (4 days ago)
+- [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (5 days ago)
+- [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (5 days ago)
 - [Add use statements for PHP CS Fixer](https://github.com/shopware/recipes/pull/130) on [shopware/recipes](https://github.com/shopware/recipes) (1 week ago)
 - [NEXT-00000 - Sort sales channels in product visibility selection](https://github.com/shopware/shopware/pull/4798) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [Adjust SVR Unit Builder](https://github.com/dockware/dockware/pull/233) on [dockware/dockware](https://github.com/dockware/dockware) (3 weeks ago)
