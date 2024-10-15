@@ -41,7 +41,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [NEXT-0000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [NEXT-00000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
 - [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 week ago)
 - [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (1 week ago)
