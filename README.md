@@ -41,6 +41,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [NEXT-0000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
 - [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 week ago)
 - [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (1 week ago)
@@ -50,4 +51,3 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add Shopware 6.6.6.1](https://github.com/dockware/dockware/pull/232) on [dockware/dockware](https://github.com/dockware/dockware) (3 weeks ago)
 - [Add explanation for sitemap configuration](https://github.com/shopware/docs/pull/1481) on [shopware/docs](https://github.com/shopware/docs) (4 weeks ago)
 - [NEXT-00000 - Remove force option from es:index:cleanup command](https://github.com/shopware/shopware/pull/4728) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [Fix path for ddev instuctions](https://github.com/FriendsOfShopware/shopware-cli/pull/410) on [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) (1 month ago)
