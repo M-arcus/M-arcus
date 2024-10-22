@@ -28,7 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.1](https://github.com/deployphp/deployer/releases/tag/v7.5.1), today) - The PHP deployment tool with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.3](https://github.com/deployphp/deployer/releases/tag/v7.5.3), today) - The PHP deployment tool with support for popular frameworks out of the box
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.10](https://github.com/shopware/deployment-helper/releases/tag/0.0.10), 1 day ago) - 
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.3.1](https://github.com/cachix/devenv/releases/tag/v1.3.1), 5 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.11.2](https://github.com/mollie/Shopware6/releases/tag/v4.11.2), 5 days ago) - 
