@@ -22,9 +22,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 month ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 month ago)
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,9 +32,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.55](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.55), 2 weeks ago) - CLI for Shopware Account and Shopware 6
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.2](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.2), 3 weeks ago) - Plugin checkout solution for Shopware 6
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 1 month ago) - The Symfony PHP framework
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v1.4.3](https://github.com/actions/attest-build-provenance/releases/tag/v1.4.3), 1 month ago) - Action for generating build provenance attestations for workflow artifacts
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.3.0), 2 months ago) - A collection of useful tools for Shopware 6
 
 #### 🔨 My recent Pull Requests
 
@@ -48,6 +42,3 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 weeks ago)
 - [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (2 weeks ago)
 - [Add use statements for PHP CS Fixer](https://github.com/shopware/recipes/pull/130) on [shopware/recipes](https://github.com/shopware/recipes) (2 weeks ago)
-- [NEXT-00000 - Sort sales channels in product visibility selection](https://github.com/shopware/shopware/pull/4798) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [Adjust SVR Unit Builder](https://github.com/dockware/dockware/pull/233) on [dockware/dockware](https://github.com/dockware/dockware) (1 month ago)
-- [Add Shopware 6.6.6.1](https://github.com/dockware/dockware/pull/232) on [dockware/dockware](https://github.com/dockware/dockware) (1 month ago)
