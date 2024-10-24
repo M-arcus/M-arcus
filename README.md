@@ -15,13 +15,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
+- [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (today)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box (1 week ago)
 - [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (2 weeks ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 month ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 month ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
