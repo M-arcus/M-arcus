@@ -25,12 +25,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.56](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.56), today) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.4](https://github.com/deployphp/deployer/releases/tag/v7.5.4), 3 days ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.10](https://github.com/shopware/deployment-helper/releases/tag/0.0.10), 5 days ago) - 
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.3.1](https://github.com/cachix/devenv/releases/tag/v1.3.1), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.11.2](https://github.com/mollie/Shopware6/releases/tag/v4.11.2), 1 week ago) - 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.55](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.55), 3 weeks ago) - CLI for Shopware Account and Shopware 6
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.2](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.2), 4 weeks ago) - Plugin checkout solution for Shopware 6
 
 #### 🔨 My recent Pull Requests
