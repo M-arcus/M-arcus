@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.6](https://github.com/symfony/symfony/releases/tag/v7.1.6), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), today) - The Symfony PHP framework
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.56](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.56), 1 day ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.4](https://github.com/deployphp/deployer/releases/tag/v7.5.4), 4 days ago) - The PHP deployment tool with support for popular frameworks out of the box
@@ -35,10 +35,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [NEXT-00000 - sw-string-filter: Add types `equalsAny`, `prefix` and `suffix`](https://github.com/shopware/shopware/pull/5305) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Add &#34;Disable fine-grained caching&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/282) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 days ago)
 - [Add Shopware 6.6.7.0](https://github.com/dockware/dockware/pull/234) on [dockware/dockware](https://github.com/dockware/dockware) (6 days ago)
 - [Remove self-update](https://github.com/gordalina/cachetool/pull/249) on [gordalina/cachetool](https://github.com/gordalina/cachetool) (6 days ago)
 - [NEXT-00000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [Add admin-eslint and admin-jest to readme](https://github.com/shopware/github-actions/pull/36) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 weeks ago)
-- [Filter bots from Top Contributor List](https://github.com/FriendsOfShopware/homepage/pull/242) on [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) (2 weeks ago)
