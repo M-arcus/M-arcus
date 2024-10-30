@@ -15,8 +15,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (4 days ago)
-- [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (5 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
+- [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (6 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box (2 weeks ago)
 - [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (3 weeks ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 weeks ago)
@@ -25,19 +25,19 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.57](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.57), today) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.11](https://github.com/shopware/deployment-helper/releases/tag/0.0.11), today) - 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 2 days ago) - The Symfony PHP framework
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.4](https://github.com/deployphp/deployer/releases/tag/v7.5.4), 6 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.57](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.57), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.11](https://github.com/shopware/deployment-helper/releases/tag/0.0.11), 1 day ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.4](https://github.com/deployphp/deployer/releases/tag/v7.5.4), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.3.1](https://github.com/cachix/devenv/releases/tag/v1.3.1), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.11.2](https://github.com/mollie/Shopware6/releases/tag/v4.11.2), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [NEXT-00000 - Sitemap: Add option to exclude hidden products from sitemap](https://github.com/shopware/shopware/pull/5306) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
-- [NEXT-00000 - sw-string-filter: Add types `equalsAny`, `prefix` and `suffix`](https://github.com/shopware/shopware/pull/5305) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
-- [Add &#34;Disable fine-grained caching&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/282) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (5 days ago)
+- [NEXT-00000 - Sitemap: Add option to exclude hidden products from sitemap](https://github.com/shopware/shopware/pull/5306) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [NEXT-00000 - sw-string-filter: Add types `equalsAny`, `prefix` and `suffix`](https://github.com/shopware/shopware/pull/5305) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [Add &#34;Disable fine-grained caching&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/282) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (6 days ago)
 - [Add Shopware 6.6.7.0](https://github.com/dockware/dockware/pull/234) on [dockware/dockware](https://github.com/dockware/dockware) (1 week ago)
 - [Remove self-update](https://github.com/gordalina/cachetool/pull/249) on [gordalina/cachetool](https://github.com/gordalina/cachetool) (1 week ago)
 - [NEXT-00000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
