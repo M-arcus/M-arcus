@@ -27,3 +27,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 {{range recentPullRequests 7}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+*This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
