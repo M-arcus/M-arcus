@@ -42,3 +42,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Remove self-update](https://github.com/gordalina/cachetool/pull/249) on [gordalina/cachetool](https://github.com/gordalina/cachetool) (1 week ago)
 - [NEXT-00000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [Shopware recipe: Fix setting of jwt file permissions](https://github.com/deployphp/deployer/pull/3915) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
+
+*This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
