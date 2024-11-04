@@ -25,8 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.59](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.59), today) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.0), 2 days ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.58](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.58), 4 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.11](https://github.com/shopware/deployment-helper/releases/tag/0.0.11), 6 days ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
