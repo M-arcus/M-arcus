@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.8.1](https://github.com/shopware/shopware/releases/tag/v6.6.8.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2), today) - The Symfony PHP framework
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v1.4.4](https://github.com/actions/attest-build-provenance/releases/tag/v1.4.4), 1 day ago) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.59](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.59), 2 days ago) - CLI for Shopware Account and Shopware 6
