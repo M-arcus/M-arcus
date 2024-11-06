@@ -35,12 +35,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [NEXT-00000 - Allow activating staging mode via console with no interaction](https://github.com/shopware/shopware/pull/5402) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [NEXT-0000: Add functionality for plugin checksums](https://github.com/shopware/shopware/pull/5362) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
 - [NEXT-00000 - Sitemap: Add option to exclude hidden products from sitemap](https://github.com/shopware/shopware/pull/5306) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [NEXT-00000 - sw-string-filter: Add types `equalsAny`, `prefix` and `suffix`](https://github.com/shopware/shopware/pull/5305) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [Add &#34;Disable fine-grained caching&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/282) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Add Shopware 6.6.7.0](https://github.com/dockware/dockware/pull/234) on [dockware/dockware](https://github.com/dockware/dockware) (2 weeks ago)
 - [Remove self-update](https://github.com/gordalina/cachetool/pull/249) on [gordalina/cachetool](https://github.com/gordalina/cachetool) (2 weeks ago)
-- [NEXT-00000 - MailService: Set &#39;X-Shopware-Event-Name&#39; header to string instead of null](https://github.com/shopware/shopware/pull/5133) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
