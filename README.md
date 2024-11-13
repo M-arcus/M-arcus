@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.47](https://github.com/symfony/symfony/releases/tag/v5.4.47), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.8](https://github.com/symfony/symfony/releases/tag/v7.1.8), today) - The Symfony PHP framework
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.1), 1 day ago) - A collection of useful tools for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.12.0](https://github.com/mollie/Shopware6/releases/tag/v4.12.0), 2 days ago) - 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
