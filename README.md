@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.2), 1 day ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.3), today) - A collection of useful tools for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.12.1](https://github.com/mollie/Shopware6/releases/tag/v4.12.1), 2 days ago) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.13](https://github.com/shopware/deployment-helper/releases/tag/0.0.13), 2 days ago) - Simplify Shopware Deployments
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 3 days ago) - The Symfony PHP framework
