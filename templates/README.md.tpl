@@ -4,9 +4,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👨‍💻 Applications I have developed:
 
-##### ddev addon
-- [ddev Adminerevo](https://github.com/M-arcus/ddev-adminerevo)
-
 ##### Frontend Developer environment
 - [Marynah](https://github.com/M-arcus/Marynah)
 
