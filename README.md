@@ -39,7 +39,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Cart &amp; Cache compression: Set SettingsResult severity to info for dea…](https://github.com/FriendsOfShopware/FroshTools/pull/291) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [feature: allow scheduling of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/290) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [NEXT-00000 - Allow activating staging mode via console with no interaction](https://github.com/shopware/shopware/pull/5402) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
-- [NEXT-0000: Add functionality for plugin checksums](https://github.com/shopware/shopware/pull/5362) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
+- [NEXT-00000: Add functionality for plugin checksums](https://github.com/shopware/shopware/pull/5362) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [NEXT-00000 - Sitemap: Add option to exclude hidden products from sitemap](https://github.com/shopware/shopware/pull/5306) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [NEXT-00000 - sw-string-filter: Add types `equalsAny`, `prefix` and `suffix`](https://github.com/shopware/shopware/pull/5305) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 
