@@ -25,13 +25,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.6](https://github.com/deployphp/deployer/releases/tag/v7.5.6), 1 day ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), today) - The Symfony PHP framework
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.7](https://github.com/deployphp/deployer/releases/tag/v7.5.7), today) - The PHP deployment tool with support for popular frameworks out of the box
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.0.0](https://github.com/ddev/ddev-adminer/releases/tag/v1.0.0), 5 days ago) - AdminerEvo service for DDEV
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.14](https://github.com/shopware/deployment-helper/releases/tag/0.0.14), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.60](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.60), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.3), 1 week ago) - A collection of useful tools for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.12.1](https://github.com/mollie/Shopware6/releases/tag/v4.12.1), 1 week ago) - 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 2 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
