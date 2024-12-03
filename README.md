@@ -15,8 +15,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (today)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - AdminerEvo service for DDEV (1 week ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 weeks ago)
 - [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (4 weeks ago)
 - [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) - Shopware Homepage (1 month ago)
