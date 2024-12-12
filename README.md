@@ -25,8 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.17](https://github.com/shopware/deployment-helper/releases/tag/0.0.17), today) - Simplify Shopware Deployments
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 day ago) - The Symfony PHP framework
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.16](https://github.com/shopware/deployment-helper/releases/tag/0.0.16), 1 day ago) - Simplify Shopware Deployments
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.1.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.1.0), 3 days ago) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.7), 3 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
