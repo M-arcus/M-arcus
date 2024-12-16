@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (6 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 week ago)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - AdminerEvo service for DDEV (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 month ago)
 - [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (1 month ago)
@@ -25,11 +25,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.18](https://github.com/shopware/deployment-helper/releases/tag/0.0.18), 2 days ago) - Simplify Shopware Deployments
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 4 days ago) - The Symfony PHP framework
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.1.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.1.0), 6 days ago) - Action for generating build provenance attestations for workflow artifacts
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.7), 6 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.18](https://github.com/shopware/deployment-helper/releases/tag/0.0.18), 3 days ago) - Simplify Shopware Deployments
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 5 days ago) - The Symfony PHP framework
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.1.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.1.0), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.7), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8), 2 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 
@@ -37,7 +37,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 - [Add &#34;Messenger auto_setup&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/300) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Add &#34;Disable Product Stream Indexer&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/299) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
-- [Add &#34;Disable Symfony Secrets&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/298) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
+- [Add &#34;Disable Symfony Secrets&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/298) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 weeks ago)
 - [Use adminerevo docker image instead of the deprecated adminer image, fixes #27](https://github.com/ddev/ddev-adminer/pull/30) on [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) (3 weeks ago)
 - [Cart &amp; Cache compression: Set SettingsResult severity to info for dea…](https://github.com/FriendsOfShopware/FroshTools/pull/291) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [feature: allow scheduling of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/290) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
