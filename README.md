@@ -25,10 +25,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.19](https://github.com/shopware/deployment-helper/releases/tag/0.0.19), today) - Simplify Shopware Deployments
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.13.0](https://github.com/mollie/Shopware6/releases/tag/v4.13.0), 1 day ago) - 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.5), 1 day ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 5 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.19](https://github.com/shopware/deployment-helper/releases/tag/0.0.19), 1 day ago) - Simplify Shopware Deployments
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.13.0](https://github.com/mollie/Shopware6/releases/tag/v4.13.0), 2 days ago) - 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.5), 2 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 6 days ago) - CLI for Shopware Account and Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 week ago) - The Symfony PHP framework
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.1.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.1.0), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
@@ -38,7 +38,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add &#34;Messenger auto_setup&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/300) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Add &#34;Disable Product Stream Indexer&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/299) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Add &#34;Disable Symfony Secrets&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/298) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 weeks ago)
-- [Use adminerevo docker image instead of the deprecated adminer image, fixes #27](https://github.com/ddev/ddev-adminer/pull/30) on [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) (3 weeks ago)
+- [Use adminerevo docker image instead of the deprecated adminer image, fixes #27](https://github.com/ddev/ddev-adminer/pull/30) on [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) (4 weeks ago)
 - [Cart &amp; Cache compression: Set SettingsResult severity to info for dea…](https://github.com/FriendsOfShopware/FroshTools/pull/291) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [feature: allow scheduling of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/290) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [NEXT-00000 - Allow activating staging mode via console with no interaction](https://github.com/shopware/shopware/pull/5402) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
