@@ -18,15 +18,15 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 weeks ago)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - AdminerEvo service for DDEV (1 month ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 month ago)
-- [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (1 month ago)
+- [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (2 months ago)
 - [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) - Shopware Homepage (2 months ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 months ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5), 1 day ago) - The Easiest way to add coding standard to your PHP project
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 days ago) - The Symfony PHP framework
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5), 2 days ago) - The Easiest way to add coding standard to your PHP project
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 days ago) - The Symfony PHP framework
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.19](https://github.com/shopware/deployment-helper/releases/tag/0.0.19), 2 weeks ago) - Simplify Shopware Deployments
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.13.0](https://github.com/mollie/Shopware6/releases/tag/v4.13.0), 2 weeks ago) - 
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.5), 2 weeks ago) - A collection of useful tools for Shopware 6
