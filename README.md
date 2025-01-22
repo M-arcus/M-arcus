@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.63](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.63), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.63](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.63), 2 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5), 2 weeks ago) - The Easiest way to add coding standard to your PHP project
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 weeks ago) - The Symfony PHP framework
