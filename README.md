@@ -25,22 +25,22 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.0](https://github.com/shopware/shopware-cli/releases/tag/0.5.0), today) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.1](https://github.com/shopware/shopware-cli/releases/tag/0.5.1), today) - CLI for Shopware Account and Shopware 6
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.0), today) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5), 2 weeks ago) - The Easiest way to add coding standard to your PHP project
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 weeks ago) - The Symfony PHP framework
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.19](https://github.com/shopware/deployment-helper/releases/tag/0.0.19), 1 month ago) - Simplify Shopware Deployments
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.13.0](https://github.com/mollie/Shopware6/releases/tag/v4.13.0), 1 month ago) - 
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.1.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.1.0), 1 month ago) - Action for generating build provenance attestations for workflow artifacts
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (today)
 - [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (today)
 - [Add &#34;Messenger auto_setup&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/300) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Add &#34;Disable Product Stream Indexer&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/299) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Add &#34;Disable Symfony Secrets&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/298) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Use adminerevo docker image instead of the deprecated adminer image, fixes #27](https://github.com/ddev/ddev-adminer/pull/30) on [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) (2 months ago)
 - [Cart &amp; Cache compression: Set SettingsResult severity to info for dea…](https://github.com/FriendsOfShopware/FroshTools/pull/291) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
-- [feature: allow scheduling of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/290) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
