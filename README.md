@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (1 day ago)
+- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (2 days ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - AdminerEvo service for DDEV (2 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 months ago)
@@ -25,8 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.1](https://github.com/shopware/shopware-cli/releases/tag/0.5.1), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.0), 1 day ago) - Action for generating build provenance attestations for workflow artifacts
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.1](https://github.com/shopware/shopware-cli/releases/tag/0.5.1), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.0), 2 days ago) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 2 weeks ago) - A collection of useful tools for Shopware 6
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5), 3 weeks ago) - The Easiest way to add coding standard to your PHP project
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 weeks ago) - The Symfony PHP framework
@@ -35,8 +35,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 day ago)
-- [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 day ago)
+- [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 days ago)
+- [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 days ago)
 - [Add &#34;Messenger auto_setup&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/300) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Add &#34;Disable Product Stream Indexer&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/299) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Add &#34;Disable Symfony Secrets&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/298) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
