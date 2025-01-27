@@ -15,8 +15,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
-- [M-arcus/Marynah](https://github.com/M-arcus/Marynah) - 🏝️ Marynah 🏝️: Simple Gulp Setup for Frontend Development (3 days ago)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
+- [M-arcus/Marynah](https://github.com/M-arcus/Marynah) - 🏝️ Marynah 🏝️: Simple Gulp Setup for Frontend Development (3 days ago)
 - [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (5 days ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - AdminerEvo service for DDEV (2 months ago)
