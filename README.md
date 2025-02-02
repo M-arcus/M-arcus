@@ -25,9 +25,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.8.1](https://github.com/carthage-software/mago/releases/tag/0.8.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 1 day ago) - The Easiest way to add coding standard to your PHP project
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 3 days ago) - The Symfony PHP framework
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.8.1](https://github.com/carthage-software/mago/releases/tag/0.8.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 2 days ago) - The Easiest way to add coding standard to your PHP project
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 4 days ago) - The Symfony PHP framework
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.2](https://github.com/shopware/shopware-cli/releases/tag/0.5.2), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.0), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 3 weeks ago) - A collection of useful tools for Shopware 6
@@ -35,7 +35,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (5 days ago)
+- [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (6 days ago)
 - [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 week ago)
 - [Update README.md](https://github.com/carthage-software/mago/pull/51) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 week ago)
 - [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 week ago)
