@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.0](https://github.com/mollie/Shopware6/releases/tag/v4.14.0), today) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.1](https://github.com/mollie/Shopware6/releases/tag/v4.14.1), today) - 
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.8.1](https://github.com/carthage-software/mago/releases/tag/0.8.1), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 3 days ago) - The Easiest way to add coding standard to your PHP project
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 5 days ago) - The Symfony PHP framework
