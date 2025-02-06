@@ -25,13 +25,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.1](https://github.com/mollie/Shopware6/releases/tag/v4.14.1), 2 days ago) - 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.8.1](https://github.com/carthage-software/mago/releases/tag/0.8.1), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 5 days ago) - The Easiest way to add coding standard to your PHP project
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.1](https://github.com/mollie/Shopware6/releases/tag/v4.14.1), 3 days ago) - 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.8.1](https://github.com/carthage-software/mago/releases/tag/0.8.1), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 6 days ago) - The Easiest way to add coding standard to your PHP project
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 week ago) - The Symfony PHP framework
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.2](https://github.com/shopware/shopware-cli/releases/tag/0.5.2), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.0), 2 weeks ago) - Action for generating build provenance attestations for workflow artifacts
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 3 weeks ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 4 weeks ago) - A collection of useful tools for Shopware 6
 
 #### 🔨 My recent Pull Requests
 
