@@ -35,12 +35,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Symfony 7 compatibility](https://github.com/Pixel-Open/sulu-blockbundle/pull/1) on [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) (today)
 - [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 week ago)
 - [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 weeks ago)
 - [Update README.md](https://github.com/carthage-software/mago/pull/51) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 weeks ago)
 - [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 weeks ago)
 - [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 weeks ago)
 - [Add &#34;Messenger auto_setup&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/300) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
-- [Add &#34;Disable Product Stream Indexer&#34; checker](https://github.com/FriendsOfShopware/FroshTools/pull/299) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
