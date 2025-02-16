@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (6 days ago)
 - [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (1 week ago)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 weeks ago)
 - [M-arcus/Marynah](https://github.com/M-arcus/Marynah) - 🏝️ Marynah 🏝️: Simple Gulp Setup for Frontend Development (3 weeks ago)
@@ -25,8 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.6](https://github.com/shopware/shopware-cli/releases/tag/0.5.6), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11), 5 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.6](https://github.com/shopware/shopware-cli/releases/tag/0.5.6), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11), 6 days ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.9.1](https://github.com/carthage-software/mago/releases/tag/0.9.1), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.1](https://github.com/mollie/Shopware6/releases/tag/v4.14.1), 1 week ago) - 
