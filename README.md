@@ -25,13 +25,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.19](https://github.com/symfony/symfony/releases/tag/v6.4.19), today) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.12.0](https://github.com/carthage-software/mago/releases/tag/0.12.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.0.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.0.1), 2 days ago) - AdminerEvo web-based database browser for DDEV
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.7](https://github.com/shopware/shopware-cli/releases/tag/0.5.7), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.14.1](https://github.com/mollie/Shopware6/releases/tag/v4.14.1), 3 weeks ago) - 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) ([12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8), 3 weeks ago) - The Easiest way to add coding standard to your PHP project
 
 #### 🔨 My recent Pull Requests
 
