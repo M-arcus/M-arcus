@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.19](https://github.com/symfony/symfony/releases/tag/v6.4.19), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), today) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.12.0](https://github.com/carthage-software/mago/releases/tag/0.12.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.0.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.0.1), 2 days ago) - AdminerEvo web-based database browser for DDEV
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
