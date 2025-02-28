@@ -35,12 +35,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feature: allow deactivating of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/316) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (today)
 - [fix: Adjust &#34;Killogramm&#34; to &#34;Kilogramm&#34;](https://github.com/shopware/shopware/pull/6669) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [Symfony 7 compatibility](https://github.com/Pixel-Open/sulu-blockbundle/pull/1) on [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) (3 weeks ago)
 - [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 month ago)
 - [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 month ago)
 - [Update README.md](https://github.com/carthage-software/mago/pull/51) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 month ago)
 - [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 month ago)
-- [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (1 month ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
