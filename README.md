@@ -15,12 +15,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [M-arcus/php-fints-wrapper](https://github.com/M-arcus/php-fints-wrapper) - A simple wrapper for nemiah/php-fints (3 weeks ago)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 month ago)
 - [M-arcus/Marynah](https://github.com/M-arcus/Marynah) - 🏝️ Marynah 🏝️: Simple Gulp Setup for Frontend Development (1 month ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 month ago)
 - [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (1 month ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 months ago)
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) - Adminer web-based database browser for DDEV (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
