@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.14.0](https://github.com/carthage-software/mago/releases/tag/0.14.0), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.15.0](https://github.com/carthage-software/mago/releases/tag/0.15.0), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.0](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.0), 3 days ago) - Adminer web-based database browser for DDEV
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.2](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.2), 4 days ago) - Action for generating build provenance attestations for workflow artifacts
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 5 days ago) - The Symfony PHP framework
