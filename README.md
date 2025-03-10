@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.19.1](https://github.com/carthage-software/mago/releases/tag/0.19.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.19.2](https://github.com/carthage-software/mago/releases/tag/0.19.2), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.3](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.3), 5 days ago) - Action for generating build provenance attestations for workflow artifacts
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 6 days ago) - 
