@@ -25,8 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.20.2](https://github.com/carthage-software/mago/releases/tag/0.20.2), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.9](https://github.com/shopware/shopware-cli/releases/tag/0.5.9), 4 days ago) - CLI for Shopware Account and Shopware 6
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.20.2](https://github.com/carthage-software/mago/releases/tag/0.20.2), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.9](https://github.com/shopware/shopware-cli/releases/tag/0.5.9), 5 days ago) - CLI for Shopware Account and Shopware 6
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.3](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.3), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 1 week ago) - 
