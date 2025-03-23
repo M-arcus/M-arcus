@@ -14,12 +14,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [PHP Codestyle Swissknife](https://github.com/M-arcus/php-codestyle-swissknife-docker)
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 7}}
+{{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 7}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
