@@ -28,6 +28,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (6 days ago)
 - [MySQL settings checker: Add time_zone check](https://github.com/FriendsOfShopware/FroshTools/pull/321) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [feature: allow deactivating of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/316) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
@@ -36,7 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 month ago)
 - [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
 - [Update README.md](https://github.com/carthage-software/mago/pull/51) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
-- [Update README.md with phpstan minimum file](https://github.com/shopware/github-actions/pull/55) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 months ago)
-- [Update actions to reflect ownership change of shopware-cli-action](https://github.com/shopware/github-actions/pull/54) on [shopware/github-actions](https://github.com/shopware/github-actions) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
