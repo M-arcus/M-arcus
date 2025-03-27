@@ -28,6 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
@@ -37,6 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Symfony 7 compatibility](https://github.com/Pixel-Open/sulu-blockbundle/pull/1) on [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) (1 month ago)
 - [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (1 month ago)
 - [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
-- [Update README.md](https://github.com/carthage-software/mago/pull/51) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
