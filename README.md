@@ -28,6 +28,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -36,7 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feature: allow deactivating of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/316) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (4 weeks ago)
 - [fix: Adjust &#34;Killogramm&#34; to &#34;Kilogramm&#34;](https://github.com/shopware/shopware/pull/6669) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [Symfony 7 compatibility](https://github.com/Pixel-Open/sulu-blockbundle/pull/1) on [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) (1 month ago)
-- [fix(composer): make composer PHP files v8.1 compatible](https://github.com/carthage-software/mago/pull/57) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
-- [Composer: Allow all supported PHP versions](https://github.com/carthage-software/mago/pull/52) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
