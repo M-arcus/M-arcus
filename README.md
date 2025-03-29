@@ -15,11 +15,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), today) - The Symfony PHP framework
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.22.1](https://github.com/carthage-software/mago/releases/tag/0.22.1), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.2), 4 days ago) - A collection of useful tools for Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.12](https://github.com/shopware/shopware-cli/releases/tag/0.5.12), 4 days ago) - CLI for Shopware Account and Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 day ago) - The Symfony PHP framework
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.22.1](https://github.com/carthage-software/mago/releases/tag/0.22.1), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.2), 5 days ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.12](https://github.com/shopware/shopware-cli/releases/tag/0.5.12), 5 days ago) - CLI for Shopware Account and Shopware 6
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.3](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.3), 3 weeks ago) - Action for generating build provenance attestations for workflow artifacts
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 3 weeks ago) - 
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.0](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.0), 4 weeks ago) - Adminer web-based database browser for DDEV
@@ -28,11 +28,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
-- [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
-- [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
-- [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
-- [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
+- [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
+- [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
+- [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
 - [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [MySQL settings checker: Add time_zone check](https://github.com/FriendsOfShopware/FroshTools/pull/321) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [feature: allow deactivating of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/316) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (4 weeks ago)
