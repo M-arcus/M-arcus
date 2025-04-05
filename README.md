@@ -15,9 +15,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.4](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.4), 1 day ago) - 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.14](https://github.com/shopware/shopware-cli/releases/tag/0.5.14), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.1), 3 days ago) - Adminer web-based database browser for DDEV
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.4](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.4), 2 days ago) - 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.14](https://github.com/shopware/shopware-cli/releases/tag/0.5.14), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.1), 4 days ago) - Adminer web-based database browser for DDEV
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 week ago) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.22.1](https://github.com/carthage-software/mago/releases/tag/0.22.1), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.2), 1 week ago) - A collection of useful tools for Shopware 6
@@ -28,7 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (3 days ago)
+- [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (4 days ago)
 - [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
