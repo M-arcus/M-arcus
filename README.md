@@ -15,9 +15,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.15](https://github.com/shopware/shopware-cli/releases/tag/0.5.15), today) - CLI for Shopware Account and Shopware 6
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.22.2](https://github.com/carthage-software/mago/releases/tag/0.22.2), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.4](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.4), 4 days ago) - 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.14](https://github.com/shopware/shopware-cli/releases/tag/0.5.14), 4 days ago) - CLI for Shopware Account and Shopware 6
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.1), 6 days ago) - Adminer web-based database browser for DDEV
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 week ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.2), 2 weeks ago) - A collection of useful tools for Shopware 6
