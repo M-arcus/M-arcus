@@ -15,13 +15,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc2](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc2), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.15](https://github.com/shopware/shopware-cli/releases/tag/0.5.15), 1 day ago) - CLI for Shopware Account and Shopware 6
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.22.2](https://github.com/carthage-software/mago/releases/tag/0.22.2), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.4](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.4), 5 days ago) - 
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.1), 1 week ago) - Adminer web-based database browser for DDEV
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 week ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.2), 2 weeks ago) - A collection of useful tools for Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.2.3](https://github.com/actions/attest-build-provenance/releases/tag/v2.2.3), 1 month ago) - Action for generating build provenance attestations for workflow artifacts
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 1 month ago) - 
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
