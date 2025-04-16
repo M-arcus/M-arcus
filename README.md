@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.2](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.2), 1 day ago) - Adminer web-based database browser for DDEV
+- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), today) - Adminer web-based database browser for DDEV
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.16](https://github.com/shopware/shopware-cli/releases/tag/0.5.16), 5 days ago) - CLI for Shopware Account and Shopware 6
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.4](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.4), 6 days ago) - Plugin checkout solution for Shopware 6
