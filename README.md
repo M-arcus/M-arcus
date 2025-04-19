@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.17](https://github.com/shopware/shopware-cli/releases/tag/0.5.17), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.18](https://github.com/shopware/shopware-cli/releases/tag/0.5.18), today) - CLI for Shopware Account and Shopware 6
 - [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.5](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.5), 2 days ago) - 
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 3 days ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 6 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
