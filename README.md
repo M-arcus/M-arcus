@@ -15,10 +15,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.17](https://github.com/shopware/shopware-cli/releases/tag/0.5.17), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.5](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.5), 1 day ago) - 
-- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 2 days ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.17](https://github.com/shopware/shopware-cli/releases/tag/0.5.17), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.5](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.5), 2 days ago) - 
+- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 3 days ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 6 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.4](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.4), 1 week ago) - Plugin checkout solution for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 3 weeks ago) - The Symfony PHP framework
@@ -34,7 +34,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
-- [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (4 weeks ago)
+- [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [MySQL settings checker: Add time_zone check](https://github.com/FriendsOfShopware/FroshTools/pull/321) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [feature: allow deactivating of scheduled tasks](https://github.com/FriendsOfShopware/FroshTools/pull/316) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [fix: Adjust &#34;Killogramm&#34; to &#34;Kilogramm&#34;](https://github.com/shopware/shopware/pull/6669) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
