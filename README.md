@@ -15,9 +15,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), today) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 3 days ago) - Simplify Shopware Deployments
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.18](https://github.com/shopware/shopware-cli/releases/tag/0.5.18), 6 days ago) - CLI for Shopware Account and Shopware 6
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.5](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.5), 1 week ago) - 
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 1 week ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.4](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.4), 2 weeks ago) - Plugin checkout solution for Shopware 6
