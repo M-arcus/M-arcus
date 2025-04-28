@@ -15,8 +15,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), 2 days ago) - 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 5 days ago) - Simplify Shopware Deployments
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), 3 days ago) - 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 6 days ago) - Simplify Shopware Deployments
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.18](https://github.com/shopware/shopware-cli/releases/tag/0.5.18), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 1 week ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -28,8 +28,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (5 days ago)
-- [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
+- [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (6 days ago)
+- [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
 - [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (3 weeks ago)
 - [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
