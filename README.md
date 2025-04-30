@@ -15,14 +15,14 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), today) - Plugin checkout solution for Shopware 6
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.0.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.0.0), today) - A collection of useful tools for Shopware 6
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.3.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.3.0), 1 day ago) - Action for generating build provenance attestations for workflow artifacts
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), 4 days ago) - 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 1 day ago) - Plugin checkout solution for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.0.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.0.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.3.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.3.0), 2 days ago) - Action for generating build provenance attestations for workflow artifacts
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), 5 days ago) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 1 week ago) - Simplify Shopware Deployments
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.18](https://github.com/shopware/shopware-cli/releases/tag/0.5.18), 1 week ago) - CLI for Shopware Account and Shopware 6
-- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 1 week ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
+- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.3](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.3), 2 weeks ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 month ago) - The Symfony PHP framework
 
