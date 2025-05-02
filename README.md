@@ -15,7 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.21](https://github.com/symfony/symfony/releases/tag/v6.4.21), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), today) - The Symfony PHP framework
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 1 day ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 3 days ago) - Plugin checkout solution for Shopware 6
