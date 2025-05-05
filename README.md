@@ -15,6 +15,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.19](https://github.com/shopware/shopware-cli/releases/tag/0.5.19), today) - CLI for Shopware Account and Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 3 days ago) - The Symfony PHP framework
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 4 days ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
@@ -23,7 +24,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.3.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.3.0), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
 - [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.6](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.6), 1 week ago) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 1 week ago) - Simplify Shopware Deployments
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.5.18](https://github.com/shopware/shopware-cli/releases/tag/0.5.18), 2 weeks ago) - CLI for Shopware Account and Shopware 6
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 3 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
 #### 🔨 My recent Pull Requests
