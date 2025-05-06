@@ -22,9 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 5 days ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 1 week ago) - Plugin checkout solution for Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.0.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.0.0), 1 week ago) - A collection of useful tools for Shopware 6
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) ([v2.3.0](https://github.com/actions/attest-build-provenance/releases/tag/v2.3.0), 1 week ago) - Action for generating build provenance attestations for workflow artifacts
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.20](https://github.com/shopware/deployment-helper/releases/tag/0.0.20), 2 weeks ago) - Simplify Shopware Deployments
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.23.0](https://github.com/carthage-software/mago/releases/tag/0.23.0), 3 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
