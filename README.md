@@ -28,6 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (today)
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (2 weeks ago)
 - [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (1 month ago)
@@ -37,6 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
-- [MySQL settings checker: Add time_zone check](https://github.com/FriendsOfShopware/FroshTools/pull/321) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
