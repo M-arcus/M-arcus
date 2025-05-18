@@ -15,11 +15,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.0](https://github.com/shopware/shopware-cli/releases/tag/0.6.0), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 3 days ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 3 days ago) - Simplify Shopware Deployments
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.10](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.10), 4 days ago) - 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.0](https://github.com/shopware/shopware-cli/releases/tag/0.6.0), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 4 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 4 days ago) - Simplify Shopware Deployments
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.10](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.10), 5 days ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 2 weeks ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 2 weeks ago) - Plugin checkout solution for Shopware 6
