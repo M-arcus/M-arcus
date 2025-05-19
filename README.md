@@ -15,11 +15,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.0](https://github.com/shopware/shopware-cli/releases/tag/0.6.0), 3 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 4 days ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 4 days ago) - Simplify Shopware Deployments
-- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.10](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.10), 5 days ago) - 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.0](https://github.com/shopware/shopware-cli/releases/tag/0.6.0), 4 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 5 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 5 days ago) - Simplify Shopware Deployments
+- [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.10](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.10), 6 days ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 2 weeks ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 2 weeks ago) - Plugin checkout solution for Shopware 6
@@ -37,6 +37,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
+- [PHPStan: Don&#39;t report unmatched ignored errors](https://github.com/FriendsOfShopware/FroshTools/pull/323) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
