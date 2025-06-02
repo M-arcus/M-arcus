@@ -28,6 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (today)
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (1 month ago)
@@ -37,6 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
 - [fix: Remove non-existing imports from admin module stub](https://github.com/shopware/shopware/pull/7932) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
-- [fix: Raise version in composer.stub](https://github.com/shopware/shopware/pull/7930) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
