@@ -28,6 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid setting JWT file permissions if the directory does not exist](https://github.com/deployphp/deployer/pull/4077) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 days ago)
 - [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (2 days ago)
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
@@ -37,6 +38,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (2 months ago)
 - [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Use official app-server-sdk package](https://github.com/FriendsOfShopware/shopmon/pull/406) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
-- [Fix setting rsync flags in case they are empty](https://github.com/deployphp/deployer/pull/4044) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
