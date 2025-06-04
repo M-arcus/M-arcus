@@ -15,23 +15,23 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.1), today) - A collection of useful tools for Shopware 6
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.6](https://github.com/shopware/shopware-cli/releases/tag/0.6.6), today) - CLI for Shopware Account and Shopware 6
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 5 days ago) - The Symfony PHP framework
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.24.1](https://github.com/carthage-software/mago/releases/tag/0.24.1), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.1), 1 day ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.6](https://github.com/shopware/shopware-cli/releases/tag/0.6.6), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 6 days ago) - The Symfony PHP framework
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.24.1](https://github.com/carthage-software/mago/releases/tag/0.24.1), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) ([0.1.11](https://github.com/shopwareLabs/extension-verifier/releases/tag/0.1.11), 2 weeks ago) - 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 2 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 2 weeks ago) - Simplify Shopware Deployments
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 3 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.22](https://github.com/shopware/deployment-helper/releases/tag/0.0.22), 3 weeks ago) - Simplify Shopware Deployments
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 1 month ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 - [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 1 month ago) - Plugin checkout solution for Shopware 6
 
 #### 🔨 My recent Pull Requests
 
-- [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
-- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (1 day ago)
+- [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 days ago)
+- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (2 days ago)
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
+- [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (4 weeks ago)
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (1 month ago)
 - [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareLabs/extension-verifier/pull/38) on [shopwareLabs/extension-verifier](https://github.com/shopwareLabs/extension-verifier) (2 months ago)
