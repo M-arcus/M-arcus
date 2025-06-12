@@ -24,7 +24,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 3 weeks ago) - 
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 4 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 1 month ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
-- [mondu-ai/bnpl-checkout-shopware6](https://github.com/mondu-ai/bnpl-checkout-shopware6) ([1.4.5](https://github.com/mondu-ai/bnpl-checkout-shopware6/releases/tag/1.4.5), 1 month ago) - Plugin checkout solution for Shopware 6
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.15.0](https://github.com/mollie/Shopware6/releases/tag/v4.15.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
