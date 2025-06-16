@@ -15,10 +15,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.24.4](https://github.com/carthage-software/mago/releases/tag/0.24.4), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.9](https://github.com/shopware/shopware-cli/releases/tag/0.6.9), 3 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.23](https://github.com/shopware/deployment-helper/releases/tag/0.0.23), 6 days ago) - Simplify Shopware Deployments
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.24.4](https://github.com/carthage-software/mago/releases/tag/0.24.4), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.9](https://github.com/shopware/shopware-cli/releases/tag/0.6.9), 4 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.23](https://github.com/shopware/deployment-helper/releases/tag/0.0.23), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 weeks ago) - The Symfony PHP framework
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 3 weeks ago) - 
@@ -29,8 +29,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 #### 🔨 My recent Pull Requests
 
 - [Avoid setting JWT file permissions if the directory does not exist](https://github.com/deployphp/deployer/pull/4077) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
-- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (1 week ago)
+- [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
+- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (2 weeks ago)
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (1 month ago)
