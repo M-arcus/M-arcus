@@ -15,10 +15,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.1.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.1.0), 1 day ago) - Shopware Shop Monitoring
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.24.5](https://github.com/carthage-software/mago/releases/tag/0.24.5), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.10](https://github.com/shopware/shopware-cli/releases/tag/0.6.10), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.23](https://github.com/shopware/deployment-helper/releases/tag/0.0.23), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 weeks ago) - The Symfony PHP framework
