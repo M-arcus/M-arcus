@@ -15,7 +15,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.16.0](https://github.com/mollie/Shopware6/releases/tag/v4.16.0), 2 days ago) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.24](https://github.com/shopware/deployment-helper/releases/tag/0.0.24), 2 days ago) - Simplify Shopware Deployments
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.1.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.1.0), 4 days ago) - Shopware Shop Monitoring
@@ -25,6 +24,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 3 weeks ago) - The Symfony PHP framework
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 1 month ago) - 
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 1 month ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 
 #### 🔨 My recent Pull Requests
 
