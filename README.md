@@ -10,9 +10,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 ##### PHP FinTS/HBCI
 - [PHP FinTS wrapper](https://github.com/M-arcus/php-fints-wrapper)
 
-##### CI Docker images
-- [PHP Codestyle Swissknife](https://github.com/M-arcus/php-codestyle-swissknife-docker)
-
 #### 🔭 Latest releases I've contributed to
 
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.2](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.2), today) - Shopware Shop Monitoring
