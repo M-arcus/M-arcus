@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.3](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.3), 1 day ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.4), today) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 2 days ago) - Simplify Shopware Deployments
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.16](https://github.com/shopware/shopware-cli/releases/tag/0.6.16), 2 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
