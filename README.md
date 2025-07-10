@@ -12,6 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), today) - This plugin allows you to use lazy loading for your images.
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.18](https://github.com/shopware/shopware-cli/releases/tag/0.6.18), 3 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.6), 3 days ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 1 week ago) - Simplify Shopware Deployments
@@ -21,7 +22,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.16.0](https://github.com/mollie/Shopware6/releases/tag/v4.16.0), 2 weeks ago) - 
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 1 month ago) - A collection of useful tools for Shopware 6
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 1 month ago) - 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 
 #### 🔨 My recent Pull Requests
 
