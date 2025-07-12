@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.7](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.7), today) - Shopware Shop Monitoring
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.19](https://github.com/shopware/shopware-cli/releases/tag/0.6.19), 2 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 2 days ago) - This plugin allows you to use lazy loading for your images.
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.6), 5 days ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 1 week ago) - Simplify Shopware Deployments
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.26.1](https://github.com/carthage-software/mago/releases/tag/0.26.1), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
