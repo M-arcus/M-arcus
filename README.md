@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Update compatibility to Shopware 6.7](https://github.com/FriendsOfShopware/FroshLazySizes/pull/37) on [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) (1 week ago)
 - [Avoid setting JWT file permissions if the directory does not exist](https://github.com/deployphp/deployer/pull/4077) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 - [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
 - [Update .php-cs-fixer.dist.php to only parse PHP files](https://github.com/shopwareArchive/extension-verifier/pull/38) on [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) (3 months ago)
-- [Fix function name](https://github.com/FriendsOfShopware/shopmon/pull/408) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
