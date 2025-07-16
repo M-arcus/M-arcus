@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.21](https://github.com/shopware/shopware-cli/releases/tag/0.6.21), today) - CLI for Shopware Account and Shopware 6
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 2 days ago) - Shopware Shop Monitoring
-- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 5 days ago) - This plugin allows you to use lazy loading for your images.
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.21](https://github.com/shopware/shopware-cli/releases/tag/0.6.21), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 3 days ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 6 days ago) - This plugin allows you to use lazy loading for your images.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 2 weeks ago) - Simplify Shopware Deployments
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([0.26.1](https://github.com/carthage-software/mago/releases/tag/0.26.1), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [Update compatibility to Shopware 6.7](https://github.com/FriendsOfShopware/FroshLazySizes/pull/37) on [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) (1 week ago)
 - [Avoid setting JWT file permissions if the directory does not exist](https://github.com/deployphp/deployer/pull/4077) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
