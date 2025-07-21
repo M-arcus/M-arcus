@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.22](https://github.com/shopware/shopware-cli/releases/tag/0.6.22), 5 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.23](https://github.com/shopware/shopware-cli/releases/tag/0.6.23), today) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 1 week ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 2 weeks ago) - Simplify Shopware Deployments
