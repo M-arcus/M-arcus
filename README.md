@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.24](https://github.com/shopware/shopware-cli/releases/tag/0.6.24), today) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.0](https://github.com/shopware/shopware/releases/tag/v6.7.1.0), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 2 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 2 weeks ago) - This plugin allows you to use lazy loading for your images.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 3 weeks ago) - Simplify Shopware Deployments
