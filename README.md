@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Add zstd to encoding check](https://github.com/sitespeedio/coach-core/pull/128) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
 - [fix: don&#39;t check for canonical seo urls when no path info given during seo url creation](https://github.com/shopware/shopware/pull/11443) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [Update compatibility to Shopware 6.7](https://github.com/FriendsOfShopware/FroshLazySizes/pull/37) on [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) (3 weeks ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
 - [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 - [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
-- [Shopware recipe: Share theme folder for atomic themes](https://github.com/deployphp/deployer/pull/4059) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
