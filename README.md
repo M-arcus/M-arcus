@@ -25,6 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/sitespeedio/coach-core/pull/130) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
+- [Don&#39;t check svg images in avoidScalingImages check](https://github.com/sitespeedio/coach-core/pull/129) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
 - [Add zstd to encoding check](https://github.com/sitespeedio/coach-core/pull/128) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
 - [fix: don&#39;t check for canonical seo urls when no path info given during seo url creation](https://github.com/shopware/shopware/pull/11443) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
@@ -33,7 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (1 month ago)
 - [Info: Add application name to possible &#39;what&#39; info](https://github.com/deployphp/deployer/pull/4075) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
-- [feat: add functionality for plugin checksums](https://github.com/FriendsOfShopware/FroshTools/pull/344) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
-- [Deployer recipe: Share theme folder for atomic themes](https://github.com/shopware/docs/pull/1759) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
