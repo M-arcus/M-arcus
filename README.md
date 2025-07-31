@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), today) - The Symfony PHP framework
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.25](https://github.com/shopware/shopware-cli/releases/tag/0.6.25), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 2 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 3 weeks ago) - This plugin allows you to use lazy loading for your images.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.25](https://github.com/shopware/deployment-helper/releases/tag/0.0.25), 1 month ago) - Simplify Shopware Deployments
