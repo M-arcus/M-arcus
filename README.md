@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Fix GitHub Actions](https://github.com/sitespeedio/coach-core/pull/131) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
 - [Update README.md](https://github.com/sitespeedio/coach-core/pull/130) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 day ago)
 - [Don&#39;t check svg images in avoidScalingImages check](https://github.com/sitespeedio/coach-core/pull/129) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 day ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Update compatibility to Shopware 6.7](https://github.com/FriendsOfShopware/FroshLazySizes/pull/37) on [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) (3 weeks ago)
 - [Avoid setting JWT file permissions if the directory does not exist](https://github.com/deployphp/deployer/pull/4077) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [Set FRONTEND_URL in example .env to default frontend url](https://github.com/FriendsOfShopware/shopmon/pull/446) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
-- [feat: replace filesystem-&gt;exists(...) with is_file(...)/is_dir(...) and remove filesystem-&gt;exists(...) mocking from tests](https://github.com/tinect/platform/pull/1) on [tinect/platform](https://github.com/tinect/platform) (1 month ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
