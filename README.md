@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (today)
 - [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (2 days ago)
 - [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add zstd to encoding check](https://github.com/sitespeedio/coach-core/pull/128) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (3 days ago)
 - [fix: don&#39;t check for canonical seo urls when no path info given during seo url creation](https://github.com/shopware/shopware/pull/11443) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
-- [Update compatibility to Shopware 6.7](https://github.com/FriendsOfShopware/FroshLazySizes/pull/37) on [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) (3 weeks ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
