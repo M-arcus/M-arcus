@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add fetchpriority attribute to first image slider item](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (1 day ago)
 - [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (3 days ago)
 - [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Don&#39;t check svg images in avoidScalingImages check](https://github.com/sitespeedio/coach-core/pull/129) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (4 days ago)
 - [Add zstd to encoding check](https://github.com/sitespeedio/coach-core/pull/128) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (4 days ago)
 - [fix: don&#39;t check for canonical seo urls when no path info given during seo url creation](https://github.com/shopware/shopware/pull/11443) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
-- [chore: change class constants to self classes](https://github.com/shopware/shopware/pull/11202) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
