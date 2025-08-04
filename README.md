@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), today) - Core functionality for the Coach
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.17.0](https://github.com/mollie/Shopware6/releases/tag/v4.17.0), today) - 
-- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.2](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.2), 3 days ago) - Core functionality for the Coach
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 4 days ago) - The Symfony PHP framework
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.25](https://github.com/shopware/shopware-cli/releases/tag/0.6.25), 5 days ago) - CLI for Shopware Account and Shopware 6
@@ -25,6 +25,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [Add sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/493) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [feat: Add fetchpriority attribute to first image slider item](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (2 days ago)
 - [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (4 days ago)
@@ -32,8 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [Fix GitHub Actions](https://github.com/sitespeedio/coach-core/pull/131) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (4 days ago)
 - [Update README.md](https://github.com/sitespeedio/coach-core/pull/130) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (5 days ago)
-- [Don&#39;t check svg images in avoidScalingImages check](https://github.com/sitespeedio/coach-core/pull/129) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (5 days ago)
-- [Add zstd to encoding check](https://github.com/sitespeedio/coach-core/pull/128) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (5 days ago)
-- [fix: don&#39;t check for canonical seo urls when no path info given during seo url creation](https://github.com/shopware/shopware/pull/11443) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
