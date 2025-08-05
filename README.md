@@ -12,6 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-alpha.1](https://github.com/carthage-software/mago/releases/tag/1.0.0-alpha.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 1 day ago) - Core functionality for the Coach
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v4.17.0](https://github.com/mollie/Shopware6/releases/tag/v4.17.0), 1 day ago) - 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
@@ -19,7 +20,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.25](https://github.com/shopware/shopware-cli/releases/tag/0.6.25), 6 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.8), 3 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 3 weeks ago) - This plugin allows you to use lazy loading for your images.
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.26.1](https://github.com/carthage-software/mago/releases/tag/0.26.1), 1 month ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 2 months ago) - A collection of useful tools for Shopware 6
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 2 months ago) - 
 
