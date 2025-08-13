@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Improve handing of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (today)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [Add sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/493) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [Fix GitHub Actions](https://github.com/sitespeedio/coach-core/pull/131) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 week ago)
-- [Update README.md](https://github.com/sitespeedio/coach-core/pull/130) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
