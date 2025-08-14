@@ -12,6 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), today) - Simplify Shopware Deployments
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.27](https://github.com/shopware/shopware-cli/releases/tag/0.6.27), 1 day ago) - CLI for Shopware Account and Shopware 6
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-alpha.9](https://github.com/carthage-software/mago/releases/tag/1.0.0-alpha.9), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 1 week ago) - Core functionality for the Coach
@@ -21,7 +22,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 1 month ago) - This plugin allows you to use lazy loading for your images.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 2 months ago) - A collection of useful tools for Shopware 6
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 2 months ago) - 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 3 months ago) - The PHP deployment tool with support for popular frameworks out of the box
 
 #### 🔨 My recent Pull Requests
 
