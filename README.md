@@ -29,7 +29,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
 - [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
 - [Add sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/493) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
-- [feat: Add fetchpriority attribute to first image slider item](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
+- [feat: Add fetchpriority to first slider and gallery image](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (2 weeks ago)
 - [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (2 weeks ago)
 - [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
