@@ -12,6 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), today) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.1](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.30](https://github.com/shopware/shopware-cli/releases/tag/0.6.30), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.1), 1 week ago) - A collection of useful tools for Shopware 6
@@ -19,7 +20,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 2 weeks ago) - Simplify Shopware Deployments
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 3 weeks ago) - Core functionality for the Coach
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2), 4 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 4 weeks ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 1 month ago) - This plugin allows you to use lazy loading for your images.
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 3 months ago) - 
 
