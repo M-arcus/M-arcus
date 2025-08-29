@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.30](https://github.com/shopware/shopware-cli/releases/tag/0.6.30), 6 days ago) - CLI for Shopware Account and Shopware 6
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.1), 6 days ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.30](https://github.com/shopware/shopware-cli/releases/tag/0.6.30), 1 week ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.1), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.1](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.1), 1 week ago) - Shopware Shop Monitoring
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-alpha.12](https://github.com/carthage-software/mago/releases/tag/1.0.0-alpha.12), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 2 weeks ago) - Simplify Shopware Deployments
