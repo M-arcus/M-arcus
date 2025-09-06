@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.11](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.11), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.2](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.2), today) - Shopware Shop Monitoring
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.10](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.10), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.2.0](https://github.com/shopware/shopware/releases/tag/v6.7.2.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.6.31](https://github.com/shopware/shopware-cli/releases/tag/0.6.31), 5 days ago) - CLI for Shopware Account and Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 1 week ago) - The Symfony PHP framework
