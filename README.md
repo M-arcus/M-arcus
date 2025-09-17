@@ -12,14 +12,14 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.15](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.15), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.2.2](https://github.com/shopware/shopware/releases/tag/v6.7.2.2), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.15](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.15), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.2.2](https://github.com/shopware/shopware/releases/tag/v6.7.2.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.3](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.3), 1 week ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.1), 3 weeks ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 1 month ago) - Simplify Shopware Deployments
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 1 month ago) - Core functionality for the Coach
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 2 months ago) - This plugin allows you to use lazy loading for your images.
-- [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 3 months ago) - 
+- [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 4 months ago) - 
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2), 4 months ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer) ([v1.1.4](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4), 4 months ago) - Adminer web-based MySQL, MariaDB, PostgreSQL database browser for DDEV
 
