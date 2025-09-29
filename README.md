@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.24](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.24), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.24](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.24), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.4](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.4), 1 week ago) - A bundle that allows to manage content block for the SULU CMS.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.2.2](https://github.com/shopware/shopware/releases/tag/v6.7.2.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.2.2](https://github.com/shopware/shopware/releases/tag/v6.7.2.2), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.3](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.3), 3 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.1), 1 month ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 1 month ago) - Simplify Shopware Deployments
@@ -31,9 +31,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/493) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [feat: Add fetchpriority to first slider and gallery image](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (1 month ago)
-- [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (1 month ago)
-- [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [Fix GitHub Actions](https://github.com/sitespeedio/coach-core/pull/131) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 month ago)
+- [feat: add new commands to docs](https://github.com/shopware/docs/pull/1882) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
+- [feat: Add commands to schedule and deactivate scheduled tasks](https://github.com/shopware/shopware/pull/11670) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
+- [feat: add aria-label to image slider links](https://github.com/shopware/shopware/pull/11653) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
+- [Fix GitHub Actions](https://github.com/sitespeedio/coach-core/pull/131) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
