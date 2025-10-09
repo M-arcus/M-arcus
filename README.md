@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.27](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.27), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.3.0](https://github.com/shopware/shopware/releases/tag/v6.7.3.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 5 days ago) - A bundle that allows to manage content block for the SULU CMS.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.27](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.27), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.3.0](https://github.com/shopware/shopware/releases/tag/v6.7.3.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 6 days ago) - A bundle that allows to manage content block for the SULU CMS.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 1 week ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 1 month ago) - Simplify Shopware Deployments
