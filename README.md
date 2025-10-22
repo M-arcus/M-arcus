@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.7](https://github.com/shopware/shopware/releases/tag/v6.6.10.7), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.7](https://github.com/shopware/shopware/releases/tag/v6.6.10.7), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 2 weeks ago) - A bundle that allows to manage content block for the SULU CMS.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 3 weeks ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 3 weeks ago) - Shopware Shop Monitoring
@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (today)
+- [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 day ago)
 - [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
