@@ -12,10 +12,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 2 days ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.8](https://github.com/shopware/shopware/releases/tag/v6.6.10.8), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 3 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.8](https://github.com/shopware/shopware/releases/tag/v6.6.10.8), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 3 weeks ago) - A bundle that allows to manage content block for the SULU CMS.
+- [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 4 weeks ago) - A bundle that allows to manage content block for the SULU CMS.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 1 month ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 1 month ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.27](https://github.com/shopware/deployment-helper/releases/tag/0.0.27), 2 months ago) - Simplify Shopware Deployments
@@ -25,15 +25,15 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [feat: Display full user name in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat: Display full user name in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Add sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/493) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [feat: Add fetchpriority to first slider and gallery image](https://github.com/shopware/shopware/pull/11703) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
-- [Update plugin to 6.6 and make 6.7 compatible](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/2) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (2 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
