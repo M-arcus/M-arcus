@@ -28,7 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
-- [feat: Display full user name in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
