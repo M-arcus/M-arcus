@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 3 days ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.8](https://github.com/shopware/shopware/releases/tag/v6.6.10.8), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 4 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.8](https://github.com/shopware/shopware/releases/tag/v6.6.10.8), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 4 weeks ago) - A bundle that allows to manage content block for the SULU CMS.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 1 month ago) - A collection of useful tools for Shopware 6
@@ -25,12 +25,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
-- [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
-- [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
