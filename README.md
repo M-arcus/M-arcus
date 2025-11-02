@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [Update biome schema](https://github.com/FriendsOfShopware/shopmon/pull/495) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 months ago)
-- [Make compatible with node 22](https://github.com/FriendsOfShopware/shopmon/pull/494) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
