@@ -28,7 +28,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
 - [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
-- [feat: Add new console command to update the URL of sales channels](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
