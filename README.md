@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.4.0](https://github.com/shopware/shopware/releases/tag/v6.7.4.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.4.0](https://github.com/shopware/shopware/releases/tag/v6.7.4.0), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 1 month ago) - A bundle that allows to manage content block for the SULU CMS.
@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (5 days ago)
+- [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (6 days ago)
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
