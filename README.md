@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Allow installation of cweagans/composer-patches v2 in build composer.json](https://github.com/symplify/vendor-patches/pull/41) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Add conflict for symfony/web-profiler-bundle &lt; 7.3.0](https://github.com/shopware/conflicts/pull/28) on [shopware/conflicts](https://github.com/shopware/conflicts) (4 days ago)
 - [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 week ago)
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
-- [Improve handling of one time tasks table-creation and task marking](https://github.com/shopware/deployment-helper/pull/59) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (3 months ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
