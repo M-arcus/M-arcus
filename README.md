@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (today)
 - [Allow installation of cweagans/composer-patches v2 in build composer.json](https://github.com/symplify/vendor-patches/pull/41) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 week ago)
 - [Add conflict for symfony/web-profiler-bundle &lt; 7.3.0](https://github.com/shopware/conflicts/pull/28) on [shopware/conflicts](https://github.com/shopware/conflicts) (1 week ago)
 - [Allow installation of cweagans/composer-patches v2](https://github.com/symplify/vendor-patches/pull/40) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
-- [Add explanation for file types usually changed during deployments](https://github.com/FriendsOfShopware/FroshTools/pull/373) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
