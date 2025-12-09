@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (today)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (2 weeks ago)
 - [Allow installation of cweagans/composer-patches v2 in build composer.json](https://github.com/symplify/vendor-patches/pull/41) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [Add conflict for symfony/web-profiler-bundle &lt; 7.3.0](https://github.com/shopware/conflicts/pull/28) on [shopware/conflicts](https://github.com/shopware/conflicts) (1 month ago)
@@ -34,6 +35,5 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [feat: Display username in the import/export table](https://github.com/shopware/shopware/pull/13279) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
