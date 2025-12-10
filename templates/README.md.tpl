@@ -20,6 +20,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+Dec+2025)
+![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
