@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.12](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.12), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 1 day ago) - Rector rules for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.10](https://github.com/shopware/shopware/releases/tag/v6.6.10.10), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.11](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.11), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 3 weeks ago) - Shopware Shop Monitoring
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 2 months ago) - A bundle that allows to manage content block for the SULU CMS.
@@ -35,5 +35,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
+
+![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+Dec+2025)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
