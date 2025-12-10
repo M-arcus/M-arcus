@@ -36,6 +36,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Use specific staging config check for mail delivery](https://github.com/shopware/shopware/pull/13280) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 
-![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+Dec+2025)
+![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
 *This text was automatically created with [readme-scribe](https://github.com/muesli/readme-scribe).*
