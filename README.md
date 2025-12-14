@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.12](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.12), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.13](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.13), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 5 days ago) - Rector rules for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.10](https://github.com/shopware/shopware/releases/tag/v6.6.10.10), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 1 month ago) - Shopware Shop Monitoring
