@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 2 days ago) - Simplify Shopware Deployments
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.3](https://github.com/carthage-software/mago/releases/tag/1.0.3), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 3 days ago) - Simplify Shopware Deployments
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.3](https://github.com/carthage-software/mago/releases/tag/1.0.3), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.4), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 2 weeks ago) - Rector rules for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.10](https://github.com/shopware/shopware/releases/tag/v6.6.10.10), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
@@ -34,7 +34,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
-- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
+- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
