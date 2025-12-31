@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (today)
 - [Harden security](https://github.com/FriendsOfCXML/cxml-php/pull/47) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (3 weeks ago)
 - [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (3 weeks ago)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (1 month ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: Sort sales channel selection options by name in administration](https://github.com/shopware/shopware/pull/13293) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [fix: Reset canonical product id on product clone through the administration](https://github.com/shopware/shopware/pull/13292) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [feat: Add new console command to replace the URL of a sales channel](https://github.com/shopware/shopware/pull/13282) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
-- [feat: Add generate blocks command to composer.json](https://github.com/shopware/shopware/pull/13281) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
