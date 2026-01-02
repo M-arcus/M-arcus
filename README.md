@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 6 days ago) - Simplify Shopware Deployments
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 1 week ago) - Simplify Shopware Deployments
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.3](https://github.com/carthage-software/mago/releases/tag/1.0.3), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.4), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 3 weeks ago) - Rector rules for Shopware 6
@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (1 day ago)
+- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (2 days ago)
 - [Harden security](https://github.com/FriendsOfCXML/cxml-php/pull/47) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (3 weeks ago)
 - [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (3 weeks ago)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (1 month ago)
