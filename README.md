@@ -25,9 +25,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
-- [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
-- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (3 days ago)
+- [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
+- [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
+- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (4 days ago)
 - [Harden security](https://github.com/FriendsOfCXML/cxml-php/pull/47) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (3 weeks ago)
 - [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (3 weeks ago)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (1 month ago)
