@@ -25,6 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (6 days ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (1 month ago)
 - [Allow installation of cweagans/composer-patches v2 in build composer.json](https://github.com/symplify/vendor-patches/pull/41) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
-- [Add conflict for symfony/web-profiler-bundle &lt; 7.3.0](https://github.com/shopware/conflicts/pull/28) on [shopware/conflicts](https://github.com/shopware/conflicts) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
