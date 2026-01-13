@@ -12,10 +12,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.1.0](https://github.com/carthage-software/mago/releases/tag/1.1.0), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta), 1 day ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.5), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 2 weeks ago) - Simplify Shopware Deployments
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.3](https://github.com/carthage-software/mago/releases/tag/1.0.3), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 1 month ago) - Rector rules for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.10](https://github.com/shopware/shopware/releases/tag/v6.6.10.10), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 2 months ago) - Shopware Shop Monitoring
