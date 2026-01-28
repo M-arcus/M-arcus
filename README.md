@@ -13,7 +13,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 #### 🔭 Latest releases I've contributed to
 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.6.2](https://github.com/shopware/shopware/releases/tag/v6.7.6.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 1 week ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 2 weeks ago) - Rector rules for Shopware 6
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta), 2 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.5), 3 weeks ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.28](https://github.com/shopware/deployment-helper/releases/tag/0.0.28), 1 month ago) - Simplify Shopware Deployments
@@ -25,13 +25,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 week ago)
+- [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (2 weeks ago)
 - [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
-- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (3 weeks ago)
+- [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (4 weeks ago)
 - [Harden security](https://github.com/FriendsOfCXML/cxml-php/pull/47) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (1 month ago)
 - [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
 - [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (2 months ago)
