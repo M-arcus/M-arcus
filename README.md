@@ -25,6 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (today)
+- [Fix image size](https://github.com/aymyo/antigram-extension/pull/74) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (today)
 - [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (2 weeks ago)
 - [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
@@ -33,8 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (4 weeks ago)
 - [Harden security](https://github.com/FriendsOfCXML/cxml-php/pull/47) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (1 month ago)
-- [Replace removed rule PropertyFetchToMethodCallRector](https://github.com/FriendsOfShopware/shopware-rector/pull/59) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
-- [Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) on [Webwirkung/webwirkung-property-merger](https://github.com/Webwirkung/webwirkung-property-merger) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
