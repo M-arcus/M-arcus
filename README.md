@@ -26,9 +26,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 #### 🔨 My recent Pull Requests
 
 - [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (2 weeks ago)
-- [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
-- [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
-- [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
+- [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
+- [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
+- [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (3 weeks ago)
 - [fix patches for cweagans/composer-patches v2](https://github.com/OpenMage/magento-lts/pull/5198) on [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) (4 weeks ago)
