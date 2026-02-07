@@ -19,9 +19,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.5), 1 month ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 2 months ago) - Shopware Shop Monitoring
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.16.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.16.0), 3 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
-- [Pixel-Open/sulu-blockbundle](https://github.com/Pixel-Open/sulu-blockbundle) ([2.6.5](https://github.com/Pixel-Open/sulu-blockbundle/releases/tag/2.6.5), 4 months ago) - A bundle that allows to manage content block for the SULU CMS.
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 6 months ago) - Core functionality for the Coach
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 7 months ago) - This plugin allows you to use lazy loading for your images.
+- [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) ([v2.1.0](https://github.com/aymyo/antigram-extension/releases/tag/v2.1.0), 8 months ago) - 📵 A browser extension toolset to fight back Instagram&#39;s addictive features.
 
 #### 🔨 My recent Pull Requests
 
