@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.3.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.0), today) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.13](https://github.com/shopware/shopware/releases/tag/v6.6.10.13), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.29](https://github.com/shopware/deployment-helper/releases/tag/0.0.29), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 3 weeks ago) - Rector rules for Shopware 6
