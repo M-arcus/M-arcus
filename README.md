@@ -12,10 +12,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 1 day ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 2 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.13](https://github.com/shopware/shopware/releases/tag/v6.6.10.13), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.29](https://github.com/shopware/deployment-helper/releases/tag/0.0.29), 2 weeks ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 4 weeks ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 1 month ago) - Rector rules for Shopware 6
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 3 months ago) - Shopware Shop Monitoring
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.16.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.16.0), 3 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
@@ -25,10 +25,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 days ago)
+- [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 days ago)
 - [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 weeks ago)
 - [Fix image size](https://github.com/aymyo/antigram-extension/pull/74) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 weeks ago)
-- [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (4 weeks ago)
+- [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
 - [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
 - [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
