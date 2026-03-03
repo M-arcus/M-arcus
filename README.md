@@ -26,15 +26,15 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 #### 🔨 My recent Pull Requests
 
 - [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
-- [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 weeks ago)
+- [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
 - [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
 - [Fix image size](https://github.com/aymyo/antigram-extension/pull/74) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
 - [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
 - [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
 - [Force unescaped slashes when adjusting composer.json](https://github.com/symplify/vendor-patches/pull/52) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
-- [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
-- [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 month ago)
+- [Update GitHub actions](https://github.com/symplify/vendor-patches/pull/46) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 months ago)
+- [Replace /dev/null with patched file path](https://github.com/symplify/vendor-patches/pull/45) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
