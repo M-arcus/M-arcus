@@ -12,9 +12,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.0](https://github.com/shopware/shopware/releases/tag/v6.7.8.0), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.0](https://github.com/shopware/shopware/releases/tag/v6.7.8.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 2 weeks ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 3 weeks ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.29](https://github.com/shopware/deployment-helper/releases/tag/0.0.29), 1 month ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 1 month ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 3 months ago) - Shopware Shop Monitoring
