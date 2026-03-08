@@ -12,8 +12,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.4.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.4.0), 2 days ago) - Shopware Shop Monitoring
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.14](https://github.com/shopware/shopware/releases/tag/v6.6.10.14), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.4.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.4.0), 3 days ago) - Shopware Shop Monitoring
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.14](https://github.com/shopware/shopware/releases/tag/v6.6.10.14), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc), 2 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 3 weeks ago) - A collection of useful tools for Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.29](https://github.com/shopware/deployment-helper/releases/tag/0.0.29), 1 month ago) - Simplify Shopware Deployments
@@ -25,10 +25,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (3 days ago)
-- [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 days ago)
-- [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 days ago)
-- [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
+- [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (4 days ago)
+- [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
+- [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
+- [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 weeks ago)
 - [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
 - [Fix image size](https://github.com/aymyo/antigram-extension/pull/74) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
