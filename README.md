@@ -25,6 +25,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [Update AGENTS.md and Makefile ](https://github.com/FriendsOfShopware/shopmon/pull/593) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 week ago)
 - [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
@@ -33,8 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
 - [Fix image size](https://github.com/aymyo/antigram-extension/pull/74) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
 - [Update webmozart/assert version constraint](https://github.com/FriendsOfShopware/shopware-rector/pull/60) on [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) (1 month ago)
-- [fix: correct display of company address in letter header in 6.6](https://github.com/shopware/shopware/pull/14266) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
-- [Update readme with more information regarding v2](https://github.com/symplify/vendor-patches/pull/53) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
