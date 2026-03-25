@@ -12,11 +12,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), today) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 1 week ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.31](https://github.com/shopware/deployment-helper/releases/tag/0.0.31), 1 week ago) - Simplify Shopware Deployments
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 1 month ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 2 months ago) - Rector rules for Shopware 6
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.16.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.16.0), 4 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.1](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.1), 5 months ago) - PHP Implementation of cXML Standard
