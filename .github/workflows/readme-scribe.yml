@@ -16,9 +16,9 @@ jobs:
             contents: write
 
         steps:
-            - uses: actions/checkout@master
+            - uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
 
-            - uses: muesli/readme-scribe@master
+            - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 # master
               env:
                   GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
               with:
