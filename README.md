@@ -20,8 +20,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 2 months ago) - Rector rules for Shopware 6
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.16.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.16.0), 4 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.1](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.1), 5 months ago) - PHP Implementation of cXML Standard
+- [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.3.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.3.0), 5 months ago) - This plugin allows you to minify your HTML output.
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 7 months ago) - Core functionality for the Coach
-- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 8 months ago) - This plugin allows you to use lazy loading for your images.
 
 #### 🔨 My recent Pull Requests
 
