@@ -12,7 +12,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 4 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 5 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 1 week ago) - Shopware Shop Monitoring
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.31](https://github.com/shopware/deployment-helper/releases/tag/0.0.31), 2 weeks ago) - Simplify Shopware Deployments
@@ -25,7 +25,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Change key for html minification cache](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/pull/39) on [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) (1 day ago)
+- [fix: Change key for html minification cache](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/pull/39) on [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) (2 days ago)
 - [Refactor ecommerce property checks in TwigExtension](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/63) on [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) (2 weeks ago)
 - [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
 - [Update AGENTS.md and Makefile ](https://github.com/FriendsOfShopware/shopmon/pull/593) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
@@ -34,7 +34,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
 - [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 - [Update admin index prefix matching to use &#39;-&#39; instead of &#39;_&#39;](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 month ago)
-- [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
+- [Compatibility with Firefox for Android &amp; add data collection permissions](https://github.com/aymyo/antigram-extension/pull/75) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
