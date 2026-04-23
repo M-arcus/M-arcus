@@ -17,6 +17,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add cache functionality](https://github.com/M-arcus/PHP-Parallel-Lint/pull/1) on [M-arcus/PHP-Parallel-Lint](https://github.com/M-arcus/PHP-Parallel-Lint) (today)
 - [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (3 weeks ago)
 - [fix: don&#39;t use function that only exists in doctrine/dbal v4](https://github.com/shopware/deployment-helper/pull/78) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (3 weeks ago)
@@ -26,7 +27,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [Update AGENTS.md and Makefile ](https://github.com/FriendsOfShopware/shopmon/pull/593) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
-- [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
