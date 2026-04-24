@@ -18,12 +18,17 @@ jobs:
         steps:
             - uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
 
-            - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 # master
+            - uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5
+              with:
+                  go-version: "stable"
+
+            - name: Install markscribe
+              run: go install github.com/muesli/markscribe@master
+
+            - name: Run markscribe
+              run: "$(go env GOPATH)/bin/markscribe -write README.md templates/README.md.tpl"
               env:
                   GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-              with:
-                  template: "templates/README.md.tpl"
-                  writeTo: "README.md"
 
             - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
               env:
