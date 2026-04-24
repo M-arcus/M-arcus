@@ -18,7 +18,7 @@ jobs:
         steps:
             - uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
 
-            - uses: actions/setup-go@0a12ed9d6a96ab950c8f026ed9f722fe0da7ef32 # v5.0.2
+            - uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
               with:
                   go-version: "stable"
 
