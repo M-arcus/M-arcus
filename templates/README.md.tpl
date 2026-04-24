@@ -8,7 +8,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 30}}{{if not (hasPrefix "M-arcus/" .Repo.Name)}}
+{{range recentPullRequests 30}}{{if not (contains .Repo.Name "M-arcus/")}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}{{- end}}
 
