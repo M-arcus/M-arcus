@@ -8,9 +8,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+{{range recentPullRequests 30}}{{if not (hasPrefix "M-arcus/" .Repo.Name)}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{- end}}{{- end}}
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
