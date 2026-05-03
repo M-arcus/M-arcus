@@ -4,9 +4,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1), 1 day ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 5 days ago) - PHP Implementation of cXML Standard
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1), 2 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 6 days ago) - PHP Implementation of cXML Standard
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.17.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.17.0), 2 weeks ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.33](https://github.com/shopware/deployment-helper/releases/tag/0.0.33), 1 month ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 1 month ago) - A collection of useful tools for Shopware 6
@@ -26,9 +26,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Refactor ecommerce property checks in TwigExtension](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/63) on [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) (1 month ago)
 - [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [Update AGENTS.md and Makefile ](https://github.com/FriendsOfShopware/shopmon/pull/593) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
-- [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (1 month ago)
-- [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
-- [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
+- [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 months ago)
+- [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
+- [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [Update admin index prefix matching to use '-' instead of '_'](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
