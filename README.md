@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1), 3 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.2](https://github.com/deployphp/deployer/releases/tag/v8.0.2), today) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 1 week ago) - PHP Implementation of cXML Standard
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.17.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.17.0), 2 weeks ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
