@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.0.0](https://github.com/sitespeedio/coach-core/releases/tag/v9.0.0), today) - Core functionality for the Coach
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 1 day ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.2](https://github.com/deployphp/deployer/releases/tag/v8.0.2), 1 day ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 1 week ago) - PHP Implementation of cXML Standard
@@ -13,7 +14,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 1 month ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 3 months ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.3.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.3.0), 6 months ago) - This plugin allows you to minify your HTML output.
-- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v8.1.3](https://github.com/sitespeedio/coach-core/releases/tag/v8.1.3), 9 months ago) - Core functionality for the Coach
+- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 9 months ago) - This plugin allows you to use lazy loading for your images.
+- [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) ([v2.1.0](https://github.com/aymyo/antigram-extension/releases/tag/v2.1.0), 11 months ago) - 📵 A browser extension toolset to fight back Instagram's addictive features.
 
 #### 🔨 My recent Pull Requests
 
