@@ -17,6 +17,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (today)
+- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (today)
 - [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 week ago)
 - [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (1 month ago)
@@ -29,8 +31,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 months ago)
 - [fix: adjust readme and makefile to start dev environment](https://github.com/FriendsOfShopware/shopmon/pull/583) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [feat: add changelog to changelog](https://github.com/FriendsOfShopware/shopmon/pull/582) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
-- [feat: add functionality to schedule tasks in maintenance window](https://github.com/shopware/shopware/pull/14979) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
-- [Update admin index prefix matching to use '-' instead of '_'](https://github.com/FriendsOfShopware/FroshTools/pull/391) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
