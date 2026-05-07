@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.10.0](https://github.com/shopware/shopware/releases/tag/v6.7.10.0), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3), 1 day ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.0.0](https://github.com/sitespeedio/coach-core/releases/tag/v9.0.0), 1 day ago) - Core functionality for the Coach
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 2 days ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.10.0](https://github.com/shopware/shopware/releases/tag/v6.7.10.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3), 2 days ago) - The PHP deployment tool with support for popular frameworks out of the box
+- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.0.0](https://github.com/sitespeedio/coach-core/releases/tag/v9.0.0), 2 days ago) - Core functionality for the Coach
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 3 days ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 1 week ago) - PHP Implementation of cXML Standard
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.33](https://github.com/shopware/deployment-helper/releases/tag/0.0.33), 1 month ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 1 month ago) - A collection of useful tools for Shopware 6
@@ -19,9 +19,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (1 day ago)
-- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (1 day ago)
-- [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 week ago)
+- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (2 days ago)
+- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (2 days ago)
+- [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (2 weeks ago)
 - [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 month ago)
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (1 month ago)
 - [fix: don't use function that only exists in doctrine/dbal v4](https://github.com/shopware/deployment-helper/pull/78) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (1 month ago)
