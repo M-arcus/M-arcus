@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.0.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.0.1), 5 days ago) - Core functionality for the Coach
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.17](https://github.com/shopware/shopware/releases/tag/v6.6.10.17), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.0.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.0.1), 6 days ago) - Core functionality for the Coach
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.17](https://github.com/shopware/shopware/releases/tag/v6.6.10.17), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 1 week ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 2 weeks ago) - PHP Implementation of cXML Standard
