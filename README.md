@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.1.0](https://github.com/sitespeedio/coach-core/releases/tag/v9.1.0), today) - Core functionality for the Coach
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.2), today) - A collection of useful tools for Shopware 6
+- [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.1.0](https://github.com/sitespeedio/coach-core/releases/tag/v9.1.0), 1 day ago) - Core functionality for the Coach
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.2), 1 day ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.17](https://github.com/shopware/shopware/releases/tag/v6.6.10.17), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 1 week ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
@@ -19,7 +19,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilder/pull/1) on [FriendsOfShopware/FroshFlowBuilder](https://github.com/FriendsOfShopware/FroshFlowBuilder) (today)
+- [Make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilder/pull/1) on [FriendsOfShopware/FroshFlowBuilder](https://github.com/FriendsOfShopware/FroshFlowBuilder) (1 day ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (1 week ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (1 week ago)
 - [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (3 weeks ago)
