@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.6.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.6.1), 4 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.0), today) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.18](https://github.com/shopware/shopware/releases/tag/v6.6.10.18), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 1 week ago) - Core functionality for the Coach
@@ -20,6 +20,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (1 week ago)
 - [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (1 week ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (3 weeks ago)
@@ -33,7 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Refactor ecommerce property checks in TwigExtension](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/63) on [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) (2 months ago)
 - [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [Update AGENTS.md and Makefile ](https://github.com/FriendsOfShopware/shopmon/pull/593) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
-- [Add option to make website grayscale](https://github.com/aymyo/antigram-extension/pull/80) on [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
