@@ -20,6 +20,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (today)
 - [Make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (1 week ago)
@@ -33,7 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add SalesChannelContext to CleverPushWorkerJsController](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/4) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (1 month ago)
 - [fix: Change key for html minification cache](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/pull/39) on [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) (1 month ago)
 - [Refactor ecommerce property checks in TwigExtension](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/63) on [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) (2 months ago)
-- [feat: sort composer packages in deployment view](https://github.com/FriendsOfShopware/shopmon/pull/594) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
