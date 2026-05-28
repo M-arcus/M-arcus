@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.1), 1 day ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.1), 2 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.18](https://github.com/shopware/shopware/releases/tag/v6.6.10.18), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 week ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 1 week ago) - Core functionality for the Coach
@@ -20,11 +20,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
-- [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
-- [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 day ago)
+- [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
+- [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
+- [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
 - [Make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (1 week ago)
-- [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (1 week ago)
+- [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (2 weeks ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (3 weeks ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (3 weeks ago)
 - [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 month ago)
