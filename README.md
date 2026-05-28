@@ -20,6 +20,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (today)
+- [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (today)
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
 - [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
 - [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 days ago)
@@ -32,8 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (1 month ago)
 - [fix: don't use function that only exists in doctrine/dbal v4](https://github.com/shopware/deployment-helper/pull/78) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (1 month ago)
 - [Add SalesChannelContext to CleverPushWorkerJsController](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/4) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (1 month ago)
-- [fix: Change key for html minification cache](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/pull/39) on [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) (2 months ago)
-- [Refactor ecommerce property checks in TwigExtension](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/63) on [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
