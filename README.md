@@ -20,6 +20,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (5 days ago)
 - [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (5 days ago)
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 week ago)
@@ -33,7 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 - [fix: don't use function that only exists in doctrine/dbal v4](https://github.com/shopware/deployment-helper/pull/78) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
-- [Add SalesChannelContext to CleverPushWorkerJsController](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/4) on [cleverpush/cleverpush-shopware-plugin](https://github.com/cleverpush/cleverpush-shopware-plugin) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
