@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.2), 2 days ago) - A collection of useful tools for Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.19](https://github.com/shopware/shopware/releases/tag/v6.5.8.19), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.2), 3 days ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.19](https://github.com/shopware/shopware/releases/tag/v6.5.8.19), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 2 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 2 weeks ago) - Core functionality for the Coach
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 3 weeks ago) - 
@@ -20,7 +20,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
 - [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (1 week ago)
