@@ -21,6 +21,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (today)
+- [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (today)
 - [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (today)
@@ -34,8 +36,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
 - [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (1 month ago)
-- [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (1 month ago)
-- [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 month ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
