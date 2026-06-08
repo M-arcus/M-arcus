@@ -20,6 +20,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: improve speed of remote thumbnail generation](https://github.com/shopware/shopware/pull/17280) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
 - [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
 - [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
@@ -33,7 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 month ago)
 - [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 - [feat: update GitHub Actions](https://github.com/shopware/deployment-helper/pull/79) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
-- [fix: don't use function that only exists in doctrine/dbal v4](https://github.com/shopware/deployment-helper/pull/78) on [shopware/deployment-helper](https://github.com/shopware/deployment-helper) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
