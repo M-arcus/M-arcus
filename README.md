@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (today)
 - [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (today)
 - [refactor: improve speed of remote thumbnail generation](https://github.com/shopware/shopware/pull/17280) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs-src/pull/7) on [easy-coding-standard/ecs-src](https://github.com/easy-coding-standard/ecs-src) (1 month ago)
 - [Improve deprecation message for strict set](https://github.com/easy-coding-standard/ecs/pull/330) on [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) (1 month ago)
 - [Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 month ago)
-- [feat: add internationalization and German translation](https://github.com/FriendsOfShopware/shopmon/pull/628) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
