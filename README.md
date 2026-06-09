@@ -34,7 +34,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
-- [Make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
+- [feat: make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
 - [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
