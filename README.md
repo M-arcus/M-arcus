@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (today)
 - [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 days ago)
 - [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (2 days ago)
 - [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 days ago)
@@ -35,7 +36,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [feat: make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
-- [chore: make ready for store](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/1) on [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) (3 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
