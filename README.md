@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.4](https://github.com/shopware/shopware-cli/releases/tag/0.15.4), today) - CLI for Shopware Account and Shopware 6
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.0), today) - A collection of useful tools for Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.4](https://github.com/shopware/shopware-cli/releases/tag/0.15.4), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.0), 1 day ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.19](https://github.com/shopware/shopware/releases/tag/v6.5.8.19), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 3 weeks ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 3 weeks ago) - Core functionality for the Coach
@@ -15,23 +15,23 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.33](https://github.com/shopware/deployment-helper/releases/tag/0.0.33), 2 months ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 2 months ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 4 months ago) - Rector rules for Shopware 6
-- [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.3.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.3.0), 7 months ago) - This plugin allows you to minify your HTML output.
+- [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.3.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.3.0), 8 months ago) - This plugin allows you to minify your HTML output.
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 11 months ago) - This plugin allows you to use lazy loading for your images.
 - [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) ([v2.1.0](https://github.com/aymyo/antigram-extension/releases/tag/v2.1.0), 1 year ago) - 📵 A browser extension toolset to fight back Instagram's addictive features.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (today)
-- [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 days ago)
-- [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (2 days ago)
-- [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 days ago)
-- [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
-- [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 days ago)
-- [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (2 days ago)
-- [refactor: improve speed of remote thumbnail generation](https://github.com/shopware/shopware/pull/17280) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (1 day ago)
+- [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 days ago)
+- [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (3 days ago)
+- [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 days ago)
+- [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
+- [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 days ago)
+- [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (3 days ago)
+- [refactor: improve speed of remote thumbnail generation](https://github.com/shopware/shopware/pull/17280) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
 - [fix: match all line items returns false when no line items are present](https://github.com/shopware/shopware/pull/17211) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
-- [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
-- [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (1 week ago)
+- [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (2 weeks ago)
+- [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (2 weeks ago)
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 - [Update PHPUnit to ^12.5.8 ](https://github.com/symplify/vendor-patches/pull/60) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
