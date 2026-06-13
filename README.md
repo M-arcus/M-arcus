@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (today)
 - [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 days ago)
 - [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 days ago)
 - [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 days ago)
@@ -35,7 +36,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Fix input parsing and reflection ](https://github.com/TomasVotruba/entropy/pull/7) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (2 weeks ago)
 - [Improve resolving of bool options](https://github.com/TomasVotruba/entropy/pull/6) on [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) (2 weeks ago)
 - [Add alternative package name resolving option](https://github.com/symplify/vendor-patches/pull/62) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
-- [Preserve order of extra section, only merge patches](https://github.com/symplify/vendor-patches/pull/61) on [symplify/vendor-patches](https://github.com/symplify/vendor-patches) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
