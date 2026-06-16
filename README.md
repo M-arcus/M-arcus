@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (1 day ago)
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (2 days ago)
 - [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (2 days ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (1 week ago)
-- [refactor: improve speed of remote thumbnail generation](https://github.com/shopware/shopware/pull/17280) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
