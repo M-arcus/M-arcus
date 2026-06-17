@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.0](https://github.com/shopware/deployment-helper/releases/tag/0.1.0), today) - Simplify Shopware Deployments
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.19](https://github.com/shopware/shopware/releases/tag/v6.6.10.19), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.6](https://github.com/shopware/shopware-cli/releases/tag/0.15.6), 2 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 6 days ago) - A collection of useful tools for Shopware 6
@@ -12,7 +13,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 1 month ago) - 
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 1 month ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 1 month ago) - PHP Implementation of cXML Standard
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.33](https://github.com/shopware/deployment-helper/releases/tag/0.0.33), 2 months ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 3 months ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 5 months ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.3.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.3.0), 8 months ago) - This plugin allows you to minify your HTML output.
