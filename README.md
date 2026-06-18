@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.0](https://github.com/shopware/deployment-helper/releases/tag/0.1.0), today) - Simplify Shopware Deployments
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.19](https://github.com/shopware/shopware/releases/tag/v6.6.10.19), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.6](https://github.com/shopware/shopware-cli/releases/tag/0.15.6), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 6 days ago) - A collection of useful tools for Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.0](https://github.com/shopware/deployment-helper/releases/tag/0.1.0), 1 day ago) - Simplify Shopware Deployments
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.19](https://github.com/shopware/shopware/releases/tag/v6.6.10.19), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.6](https://github.com/shopware/shopware-cli/releases/tag/0.15.6), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 1 month ago) - Core functionality for the Coach
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 1 month ago) - 
@@ -21,13 +21,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
-- [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (2 days ago)
-- [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (3 days ago)
-- [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (3 days ago)
-- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (4 days ago)
-- [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (6 days ago)
-- [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (6 days ago)
+- [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 days ago)
+- [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (4 days ago)
+- [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (4 days ago)
+- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (5 days ago)
+- [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (1 week ago)
+- [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (1 week ago)
 - [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (1 week ago)
 - [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 week ago)
 - [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (1 week ago)
