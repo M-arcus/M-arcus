@@ -4,9 +4,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.7](https://github.com/shopware/shopware-cli/releases/tag/0.15.7), today) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.1](https://github.com/shopware/deployment-helper/releases/tag/0.1.1), today) - Simplify Shopware Deployments
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.19](https://github.com/shopware/shopware/releases/tag/v6.6.10.19), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.6](https://github.com/shopware/shopware-cli/releases/tag/0.15.6), 4 days ago) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 1 month ago) - Core functionality for the Coach
