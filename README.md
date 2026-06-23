@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.0), today) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.2](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.2), today) - Shopware Shop Monitoring
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.11.1](https://github.com/shopware/shopware/releases/tag/v6.7.11.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 1 day ago) - This plugin allows you to minify your HTML output.
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.10](https://github.com/shopware/shopware-cli/releases/tag/0.15.10), 1 day ago) - CLI for Shopware Account and Shopware 6
@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (1 week ago)
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (1 week ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
 - [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 weeks ago)
-- [feat: warn on deprecated services.xml in plugin](https://github.com/shopware/shopware-cli/pull/1082) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
