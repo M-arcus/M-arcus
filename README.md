@@ -21,6 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Allow PHP 8.5](https://github.com/FriendsOfCXML/cxml-php/pull/53) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (today)
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (1 week ago)
@@ -34,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (2 weeks ago)
 - [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
 - [feat: add check to dal:validate to ensure inheritance helper column for associations](https://github.com/shopware/shopware/pull/17314) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
-- [feat: add extension services xml convert command](https://github.com/FriendsOfShopware/FroshTools/pull/418) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
