@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.5](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.5), 4 days ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.6), today) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.9.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.9.0), 4 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.11.1](https://github.com/shopware/shopware/releases/tag/v6.7.11.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 1 week ago) - This plugin allows you to minify your HTML output.
