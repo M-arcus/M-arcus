@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.16.0-alpha-4](https://github.com/shopware/shopware-cli/releases/tag/0.16.0-alpha-4), today) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.11](https://github.com/shopware/shopware-cli/releases/tag/0.15.11), today) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), today) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.6), 1 day ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.9.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.9.0), 5 days ago) - A collection of useful tools for Shopware 6
