@@ -4,16 +4,16 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.11](https://github.com/shopware/shopware-cli/releases/tag/0.15.11), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), 2 days ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.6), 3 days ago) - Shopware Shop Monitoring
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.11](https://github.com/shopware/shopware-cli/releases/tag/0.15.11), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), 3 days ago) - Simplify Shopware Deployments
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.6), 4 days ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.9.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.9.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.11.1](https://github.com/shopware/shopware/releases/tag/v6.7.11.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 1 week ago) - This plugin allows you to minify your HTML output.
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) ([v9.2.1](https://github.com/sitespeedio/coach-core/releases/tag/v9.2.1), 1 month ago) - Core functionality for the Coach
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 1 month ago) - 
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 1 month ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 2 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 2 months ago) - PHP Implementation of cXML Standard
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.9](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.9), 5 months ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.2.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.2.0), 11 months ago) - This plugin allows you to use lazy loading for your images.
@@ -21,7 +21,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (1 day ago)
+- [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 days ago)
 - [Allow PHP 8.5](https://github.com/FriendsOfCXML/cxml-php/pull/53) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (1 week ago)
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (1 week ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
