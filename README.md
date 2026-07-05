@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.0.2](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.0.2), today) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.7](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.7), today) - Shopware Shop Monitoring
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.12](https://github.com/shopware/shopware-cli/releases/tag/0.15.12), 1 day ago) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), 5 days ago) - Simplify Shopware Deployments
