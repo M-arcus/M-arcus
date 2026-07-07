@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.12.1](https://github.com/shopware/shopware/releases/tag/v6.7.12.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.20](https://github.com/shopware/shopware/releases/tag/v6.6.10.20), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.10.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.10.0), 1 day ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.0.2](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.0.2), 2 days ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.7](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.7), 2 days ago) - Shopware Shop Monitoring
