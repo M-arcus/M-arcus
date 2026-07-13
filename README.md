@@ -4,11 +4,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.16.0](https://github.com/shopware/shopware-cli/releases/tag/0.16.0), today) - CLI for Shopware Account and Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.8](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.8), 3 days ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.10.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.10.2), 4 days ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.20](https://github.com/shopware/shopware/releases/tag/v6.6.10.20), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.0.2](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.0.2), 1 week ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.15.12](https://github.com/shopware/shopware-cli/releases/tag/0.15.12), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 3 weeks ago) - This plugin allows you to minify your HTML output.
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 1 month ago) - The PHP deployment tool with support for popular frameworks out of the box
