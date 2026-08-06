@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.11](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.11), today) - Shopware Shop Monitoring
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.17.0-alpha-2](https://github.com/shopware/shopware-cli/releases/tag/0.17.0-alpha-2), today) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.22](https://github.com/shopware/shopware/releases/tag/v6.6.10.22), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.11](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.11), 1 day ago) - Rector rules for Shopware 6
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.10](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.10), 1 week ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.12.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.12.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 2 weeks ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.2](https://github.com/shopware/deployment-helper/releases/tag/0.1.2), 1 month ago) - Simplify Shopware Deployments
