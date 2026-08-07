@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.11](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.11), 1 day ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.12](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.12), today) - Shopware Shop Monitoring
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.17.0-alpha-2](https://github.com/shopware/shopware-cli/releases/tag/0.17.0-alpha-2), 1 day ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.22](https://github.com/shopware/shopware/releases/tag/v6.6.10.22), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.11](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.11), 2 days ago) - Rector rules for Shopware 6
