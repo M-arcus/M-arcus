@@ -20,6 +20,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [fix(db): space out history seeding](https://github.com/FriendsOfShopware/shopmon/pull/830) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [fix(ui): add missing snippets](https://github.com/FriendsOfShopware/shopmon/pull/829) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [feat(ui): filter chart runs and timespan](https://github.com/FriendsOfShopware/shopmon/pull/828) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [feat: add config for checksum during project build](https://github.com/shopware/shopware-cli/pull/1293) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (1 month ago)
 - [chore: shopware-cli validation fixes](https://github.com/tinect/TinectRedirects/pull/65) on [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) (1 month ago)
 - [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
@@ -30,10 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 - [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 - [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 months ago)
-- [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 months ago)
-- [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 months ago)
-- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 months ago)
-- [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
