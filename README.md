@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.3](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.3), today) - PHP Implementation of cXML Standard
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.4](https://github.com/shopware/deployment-helper/releases/tag/0.1.4), 6 days ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.16](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.16), 1 week ago) - Shopware Shop Monitoring
@@ -15,7 +16,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 3 months ago) - The PHP deployment tool with support for popular frameworks out of the box
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 3 months ago) - 
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 4 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
-- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.2](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.2), 4 months ago) - PHP Implementation of cXML Standard
 - [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) ([v2.1.0](https://github.com/aymyo/antigram-extension/releases/tag/v2.1.0), 1 year ago) - 📵 A browser extension toolset to fight back Instagram's addictive features.
 
 #### 🔨 My recent Pull Requests
