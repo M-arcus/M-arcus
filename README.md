@@ -20,6 +20,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
+- [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
 - [fix(db): space out history seeding](https://github.com/FriendsOfShopware/shopmon/pull/830) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
 - [fix(ui): add missing snippets](https://github.com/FriendsOfShopware/shopmon/pull/829) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
@@ -32,8 +34,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
-- [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
-- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
