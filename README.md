@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), today) - Shopware Shop Monitoring
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.3](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.3), 1 day ago) - PHP Implementation of cXML Standard
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.4](https://github.com/shopware/deployment-helper/releases/tag/0.1.4), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.0), 1 week ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.16](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.16), 1 week ago) - Shopware Shop Monitoring
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.3](https://github.com/shopware/shopware-cli/releases/tag/0.18.3), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 3 weeks ago) - Rector rules for Shopware 6
