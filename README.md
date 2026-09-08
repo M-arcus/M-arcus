@@ -20,6 +20,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
+- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
 - [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
 - [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
 - [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
@@ -33,7 +35,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
-- [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
