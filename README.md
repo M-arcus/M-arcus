@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.6](https://github.com/shopware/deployment-helper/releases/tag/0.1.6), today) - Simplify Shopware Deployments
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.4](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.4), today) - PHP Implementation of cXML Standard
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.5](https://github.com/shopware/deployment-helper/releases/tag/0.1.5), 1 day ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 4 days ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.3](https://github.com/shopware/shopware-cli/releases/tag/0.18.3), 1 week ago) - CLI for Shopware Account and Shopware 6
