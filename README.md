@@ -4,9 +4,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.6](https://github.com/shopware/deployment-helper/releases/tag/0.1.6), today) - Simplify Shopware Deployments
-- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.4](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.4), today) - PHP Implementation of cXML Standard
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 4 days ago) - Shopware Shop Monitoring
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.6](https://github.com/shopware/deployment-helper/releases/tag/0.1.6), 1 day ago) - Simplify Shopware Deployments
+- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.4](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.4), 1 day ago) - PHP Implementation of cXML Standard
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 5 days ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.3](https://github.com/shopware/shopware-cli/releases/tag/0.18.3), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
@@ -20,14 +20,14 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
-- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (today)
-- [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
-- [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (4 days ago)
-- [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
-- [fix(db): space out history seeding](https://github.com/FriendsOfShopware/shopmon/pull/830) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
-- [fix(ui): add missing snippets](https://github.com/FriendsOfShopware/shopmon/pull/829) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
-- [feat(ui): filter chart runs and timespan](https://github.com/FriendsOfShopware/shopmon/pull/828) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
+- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 day ago)
+- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (1 day ago)
+- [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
+- [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
+- [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (6 days ago)
+- [fix(db): space out history seeding](https://github.com/FriendsOfShopware/shopmon/pull/830) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (6 days ago)
+- [fix(ui): add missing snippets](https://github.com/FriendsOfShopware/shopmon/pull/829) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (6 days ago)
+- [feat(ui): filter chart runs and timespan](https://github.com/FriendsOfShopware/shopmon/pull/828) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (6 days ago)
 - [feat: add config for checksum during project build](https://github.com/shopware/shopware-cli/pull/1293) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (1 month ago)
 - [chore: shopware-cli validation fixes](https://github.com/tinect/TinectRedirects/pull/65) on [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) (2 months ago)
 - [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
