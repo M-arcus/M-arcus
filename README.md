@@ -4,24 +4,24 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.4](https://github.com/shopware/shopware-cli/releases/tag/0.18.4), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.7](https://github.com/shopware/deployment-helper/releases/tag/0.1.7), 1 day ago) - Simplify Shopware Deployments
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.24](https://github.com/shopware/shopware/releases/tag/v6.6.10.24), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.4](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.4), 3 days ago) - PHP Implementation of cXML Standard
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.4](https://github.com/shopware/shopware-cli/releases/tag/0.18.4), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.7](https://github.com/shopware/deployment-helper/releases/tag/0.1.7), 2 days ago) - Simplify Shopware Deployments
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.24](https://github.com/shopware/shopware/releases/tag/v6.6.10.24), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.4](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.4), 4 days ago) - PHP Implementation of cXML Standard
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 1 week ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.0), 2 weeks ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 4 weeks ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 1 month ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 1 month ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 2 months ago) - This plugin allows you to minify your HTML output.
 - [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 3 months ago) - The PHP deployment tool with support for popular frameworks out of the box
-- [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 3 months ago) - 
+- [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 4 months ago) - 
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 4 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [aymyo/antigram-extension](https://github.com/aymyo/antigram-extension) ([v2.1.0](https://github.com/aymyo/antigram-extension/releases/tag/v2.1.0), 1 year ago) - 📵 A browser extension toolset to fight back Instagram's addictive features.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (3 days ago)
-- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (3 days ago)
+- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (4 days ago)
+- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (4 days ago)
 - [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
 - [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 week ago)
