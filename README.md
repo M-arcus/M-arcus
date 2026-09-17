@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), today) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), today) - Patch your vendor files the easy way
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.14.1](https://github.com/shopware/shopware/releases/tag/v6.7.14.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 1 day ago) - PHP Implementation of cXML Standard
