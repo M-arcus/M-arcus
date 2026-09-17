@@ -29,8 +29,32 @@ jobs:
               uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
               with:
                   card: stats
+                  options: username=M-arcus&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=default&number_format=long&disable_animations=true&cache_seconds=86400
+                  path: profile/stats-new-token-old-url.svg
+                  token: ${{ secrets.STATS_GITHUB_TOKEN }}
+
+            - name: Generate stats card
+              uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+              with:
+                  card: stats
                   options: username=M-arcus&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&disable_animations=true&theme=transparent
-                  path: profile/stats.svg
+                  path: profile/stats-new-token-new-url.svg
+                  token: ${{ secrets.STATS_GITHUB_TOKEN }}
+
+            - name: Generate stats card
+              uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+              with:
+                  card: stats
+                  options: username=M-arcus&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=default&number_format=long&disable_animations=true&cache_seconds=86400
+                  path: profile/stats-old-token-old-url.svg
+                  token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+            - name: Generate stats card
+              uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+              with:
+                  card: stats
+                  options: username=M-arcus&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&disable_animations=true&theme=transparent
+                  path: profile/stats-old-token-new-url.svg
                   token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
             - name: Run markscribe
