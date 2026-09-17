@@ -35,6 +35,15 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
+- [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
+- [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
+- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
+- [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
+- [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
+- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
+- [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 months ago)
+- [chore: mention new command in validation message](https://github.com/shopware/shopware-cli/pull/1087) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (3 months ago)
+- [refactor: handling & display of extension changelogs](https://github.com/FriendsOfShopware/shopmon/pull/680) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
