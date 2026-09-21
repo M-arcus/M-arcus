@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 3 days ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
-- [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 3 days ago) - Patch your vendor files the easy way
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.14.1](https://github.com/shopware/shopware/releases/tag/v6.7.14.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 4 days ago) - PHP Implementation of cXML Standard
+- [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 4 days ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
+- [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 4 days ago) - Patch your vendor files the easy way
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.14.1](https://github.com/shopware/shopware/releases/tag/v6.7.14.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 5 days ago) - PHP Implementation of cXML Standard
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.4](https://github.com/shopware/shopware-cli/releases/tag/0.18.4), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.7](https://github.com/shopware/deployment-helper/releases/tag/0.1.7), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 2 weeks ago) - Shopware Shop Monitoring
@@ -34,7 +34,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [chore: shopware-cli validation fixes](https://github.com/tinect/TinectRedirects/pull/65) on [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) (2 months ago)
 - [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 - [Allow PHP 8.5](https://github.com/FriendsOfCXML/cxml-php/pull/53) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (2 months ago)
-- [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (2 months ago)
+- [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
