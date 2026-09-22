@@ -4,13 +4,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.8](https://github.com/shopware/deployment-helper/releases/tag/0.1.8), today) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 1 day ago) - A collection of useful tools for Shopware 6
 - [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 5 days ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 5 days ago) - Patch your vendor files the easy way
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.14.1](https://github.com/shopware/shopware/releases/tag/v6.7.14.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 6 days ago) - PHP Implementation of cXML Standard
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.18.4](https://github.com/shopware/shopware-cli/releases/tag/0.18.4), 1 week ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.7](https://github.com/shopware/deployment-helper/releases/tag/0.1.7), 1 week ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 2 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 1 month ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 2 months ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
