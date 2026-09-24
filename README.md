@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
@@ -45,7 +46,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
 - [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
 - [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
-- [feat: make tables sortable](https://github.com/FriendsOfShopware/FroshTools/pull/419) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
