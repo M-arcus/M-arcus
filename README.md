@@ -4,14 +4,14 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 1 day ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 3 days ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 2 days ago) - Simplify Shopware Deployments
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 4 days ago) - A collection of useful tools for Shopware 6
 - [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 1 week ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 1 week ago) - Patch your vendor files the easy way
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 1 week ago) - PHP Implementation of cXML Standard
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 2 weeks ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 3 weeks ago) - Shopware Shop Monitoring
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 1 month ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 2 months ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 3 months ago) - This plugin allows you to minify your HTML output.
@@ -22,13 +22,13 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
-- [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
+- [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
 - [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
-- [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
-- [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 weeks ago)
+- [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
+- [feat(environments): show last deployment date](https://github.com/FriendsOfShopware/shopmon/pull/833) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
 - [feat(checks): add task overdue grace period](https://github.com/FriendsOfShopware/shopmon/pull/831) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
 - [fix(db): space out history seeding](https://github.com/FriendsOfShopware/shopmon/pull/830) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
 - [fix(ui): add missing snippets](https://github.com/FriendsOfShopware/shopmon/pull/829) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
