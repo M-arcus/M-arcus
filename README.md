@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(storefront): restore list price strike-through in product listings](https://github.com/shopware/shopware/pull/20910) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [feat(core): detect rules with identical conditions](https://github.com/shopware/shopware/pull/20906) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(core): pass tags as a list to Redis invalidator storage](https://github.com/shopware/shopware/pull/20896) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): open delete modal only for the clicked row](https://github.com/shopware/shopware/pull/20894) on [shopware/shopware](https://github.com/shopware/shopware) (today)
@@ -45,7 +46,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 - [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
-- [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
