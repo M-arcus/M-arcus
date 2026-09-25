@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(core): pass tags as a list to Redis invalidator storage](https://github.com/shopware/shopware/pull/20896) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(administration): open delete modal only for the clicked row](https://github.com/shopware/shopware/pull/20894) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): show translated sales channel name in review](https://github.com/shopware/shopware/pull/20893) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
@@ -44,8 +46,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 - [docs: update link for complete list of anonymized tables](https://github.com/shopware/docs/pull/2329) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 - [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
-- [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
-- [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
