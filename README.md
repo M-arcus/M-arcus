@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(administration): show translated sales channel name in review](https://github.com/shopware/shopware/pull/20893) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
 - [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -44,8 +46,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix: mock builder handles traits and enums](https://github.com/shopware/docs/pull/2328) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 - [feat: add MJML tags and attributes to editor](https://github.com/FriendsOfShopware/FroshMjml/pull/4) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
 - [feat: make 6.6 compatible](https://github.com/FriendsOfShopware/FroshMjml/pull/3) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
-- [chore: shopware-cli check & validate fixes](https://github.com/FriendsOfShopware/FroshMjml/pull/2) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
-- [fix: use new namespaces](https://github.com/FriendsOfShopware/FroshMjml/pull/1) on [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
