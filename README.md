@@ -4,11 +4,11 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.18](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.18), today) - Shopware Shop Monitoring
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 2 days ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 4 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.18](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.18), 1 day ago) - Shopware Shop Monitoring
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 3 days ago) - Simplify Shopware Deployments
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 5 days ago) - A collection of useful tools for Shopware 6
 - [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 1 week ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 1 week ago) - Patch your vendor files the easy way
 - [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 1 week ago) - PHP Implementation of cXML Standard
@@ -22,15 +22,15 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
-- [fix(storefront): restore list price strike-through in product listings](https://github.com/shopware/shopware/pull/20910) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [feat(core): detect rules with identical conditions](https://github.com/shopware/shopware/pull/20906) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(core): pass tags as a list to Redis invalidator storage](https://github.com/shopware/shopware/pull/20896) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(administration): open delete modal only for the clicked row](https://github.com/shopware/shopware/pull/20894) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(administration): show translated sales channel name in review](https://github.com/shopware/shopware/pull/20893) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) on [shopware/shopware](https://github.com/shopware/shopware) (today)
-- [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
-- [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (1 day ago)
-- [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [fix(storefront): restore list price strike-through in product listings](https://github.com/shopware/shopware/pull/20910) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [feat(core): detect rules with identical conditions](https://github.com/shopware/shopware/pull/20906) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(core): pass tags as a list to Redis invalidator storage](https://github.com/shopware/shopware/pull/20896) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(administration): open delete modal only for the clicked row](https://github.com/shopware/shopware/pull/20894) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(administration): show translated sales channel name in review](https://github.com/shopware/shopware/pull/20893) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
+- [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
+- [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (2 days ago)
+- [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (3 days ago)
 - [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
 - [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (2 weeks ago)
 - [fix(frontend): make update wizard modal scrollable](https://github.com/FriendsOfShopware/shopmon/pull/834) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (3 weeks ago)
