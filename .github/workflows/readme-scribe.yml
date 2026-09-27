@@ -76,3 +76,6 @@ jobs:
               with:
                   commit_message: Update generated README
                   branch: main
+                  commit_user_name: github-actions[bot]
+                  commit_user_email: actions@github.com
+                  commit_author: github-actions[bot] <actions@github.com>
