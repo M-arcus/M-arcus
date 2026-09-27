@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(storefront): return 404 for admin below virtual domain paths](https://github.com/shopware/shopware/pull/20926) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(administration): keep list filters on the back arrow after a detour](https://github.com/shopware/shopware/pull/20925) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): hide checkbox inheritance switch in default scope](https://github.com/shopware/shopware/pull/20924) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): reload sales channel menu after deletion](https://github.com/shopware/shopware/pull/20923) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(core): keep reference price when decoding quantity price definitions](https://github.com/shopware/shopware/pull/20922) on [shopware/shopware](https://github.com/shopware/shopware) (today)
@@ -45,8 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [feat: add config for checksum during project build](https://github.com/shopware/shopware-cli/pull/1293) on [shopware/shopware-cli](https://github.com/shopware/shopware-cli) (1 month ago)
 - [chore: shopware-cli validation fixes](https://github.com/tinect/TinectRedirects/pull/65) on [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) (2 months ago)
 - [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
-- [Allow PHP 8.5](https://github.com/FriendsOfCXML/cxml-php/pull/53) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (3 months ago)
-- [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
