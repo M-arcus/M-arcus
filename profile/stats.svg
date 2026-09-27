@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marcus M&#252;ller&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Contributions: 15153, Total Commits  (last year) : 3194, Total PRs: 2292, Total PRs Merged: 2176, Merged PRs Percentage: 94.94, PRs Commented: 520, Contributed to (last year): 44, Contributed to (all time): 113</desc>
+        <desc id="descId">Total Contributions: 15155, Total Commits  (last year) : 3196, Total PRs: 2292, Total PRs Merged: 2176, Merged PRs Percentage: 94.94, PRs Commented: 520, Contributed to (last year): 44, Contributed to (all time): 113</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.42819835072471;
+        stroke-dashoffset: 68.4281653258431;
       }
     }
   
