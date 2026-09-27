@@ -1,0 +1,56 @@
+name: Update PR.md
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "30 4 * * *"
+
+jobs:
+    stale-prs:
+        runs-on: ubuntu-latest
+
+        permissions:
+            # Give the default GITHUB_TOKEN write permission to commit and push the
+            # added or changed files to the repository.
+            contents: write
+
+        steps:
+            - uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
+
+            - name: Generate PR.md
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  AUTHOR: ${{ github.repository_owner }}
+              run: |
+                  cutoff=$(date -u -d '1 month ago' +%Y-%m-%d)
+
+                  gh search prs \
+                      --author="$AUTHOR" \
+                      --state=open \
+                      --visibility=public \
+                      --updated="<$cutoff" \
+                      --limit 1000 \
+                      --json repository,number,title,url,updatedAt,isDraft \
+                      > prs.json
+
+                  {
+                      echo "# Inactive pull requests"
+                      echo
+                      echo "Open PRs by @$AUTHOR in public repositories without updates since $cutoff, most inactive first."
+                      echo
+                      echo "| Inactive | Last update | Repository | Pull request |"
+                      echo "| ---: | --- | --- | --- |"
+                      jq -r --argjson now "$(date -u +%s)" '
+                          sort_by(.updatedAt)[]
+                          | ((($now - (.updatedAt | fromdateiso8601)) / 86400) | floor) as $days
+                          | "| \($days) days | \(.updatedAt[0:10]) | \(.repository.nameWithOwner) | [#\(.number) \(.title | gsub("\\|"; "\\|"))](\(.url))\(if .isDraft then " (draft)" else "" end) |"
+                      ' prs.json
+                  } > PR.md
+
+                  rm prs.json
+
+            - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
+              with:
+                  commit_message: Update PR.md
+                  branch: main
+                  file_pattern: PR.md
