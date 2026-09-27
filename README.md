@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(administration): hide checkbox inheritance switch in default scope](https://github.com/shopware/shopware/pull/20924) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(administration): reload sales channel menu after deletion](https://github.com/shopware/shopware/pull/20923) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(core): keep reference price when decoding quantity price definitions](https://github.com/shopware/shopware/pull/20922) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(storefront): restore list price strike-through in product listings](https://github.com/shopware/shopware/pull/20910) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [feat(core): detect rules with identical conditions](https://github.com/shopware/shopware/pull/20906) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [fix(core): pass tags as a list to Redis invalidator storage](https://github.com/shopware/shopware/pull/20896) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -44,8 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [Filter templates to include only those containing 'storefront/'](https://github.com/FriendsOfShopware/FroshTools/pull/429) on [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) (2 months ago)
 - [Allow PHP 8.5](https://github.com/FriendsOfCXML/cxml-php/pull/53) on [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) (3 months ago)
 - [refactor: move product slider random sort to PHP shuffle](https://github.com/shopware/shopware/pull/17689) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
-- [refactor: speed up loading of available combinations](https://github.com/shopware/shopware/pull/17508) on [shopware/shopware](https://github.com/shopware/shopware) (3 months ago)
-- [fix: fix 404 links](https://github.com/shopware/docs/pull/2330) on [shopware/docs](https://github.com/shopware/docs) (3 months ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
