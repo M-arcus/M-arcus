@@ -4,10 +4,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.10](https://github.com/shopware/deployment-helper/releases/tag/0.1.10), today) - Simplify Shopware Deployments
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.20](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.20), 1 day ago) - Shopware Shop Monitoring
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 5 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 5 days ago) - Simplify Shopware Deployments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 1 week ago) - A collection of useful tools for Shopware 6
 - [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.14](https://github.com/TomasVotruba/entropy/releases/tag/0.4.14), 1 week ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) ([12.2.0](https://github.com/symplify/vendor-patches/releases/tag/12.2.0), 1 week ago) - Patch your vendor files the easy way
