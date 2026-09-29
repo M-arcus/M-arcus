@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [fix(core): keep message queue statistics failures from stopping workers](https://github.com/shopware/shopware/pull/20996) on [shopware/shopware](https://github.com/shopware/shopware) (today)
+- [fix(administration): upload the document company logo](https://github.com/shopware/shopware/pull/20995) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): show translated document type names](https://github.com/shopware/shopware/pull/20936) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [fix(administration): keep cleared cms block margins empty](https://github.com/shopware/shopware/pull/20935) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [fix(core): require a rating when saving a product review](https://github.com/shopware/shopware/pull/20934) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -45,8 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (5 days ago)
 - [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
 - [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
-- [Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (3 weeks ago)
-- [Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) on [sitespeedio/coach-core](https://github.com/sitespeedio/coach-core) (3 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
