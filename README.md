@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- [feat(frontend): add rolling median trend to sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/854) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (today)
 - [fix(core): keep message queue statistics failures from stopping workers](https://github.com/shopware/shopware/pull/20996) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): upload the document company logo](https://github.com/shopware/shopware/pull/20995) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [fix(administration): show translated document type names](https://github.com/shopware/shopware/pull/20936) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) on [shopware/shopware](https://github.com/shopware/shopware) (5 days ago)
 - [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) on [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) (5 days ago)
-- [fix(checkout): keep order shipping country on recalculation](https://github.com/shopware/shopware/pull/20741) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
