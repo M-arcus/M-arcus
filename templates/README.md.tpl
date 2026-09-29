@@ -4,12 +4,12 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 15}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- <img src="https://github.com/{{template "owner" .Name}}.png?size=32" width="16" height="16" alt="{{template "owner" .Name}}"> [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 25}}{{if not (contains .Repo.Name "M-arcus/")}}
-- <img src="https://github.com/{{template "owner" .Repo.Name}}.png?size=32" width="16" height="16" alt="{{template "owner" .Repo.Name}}"> [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- <img src="https://github.com/{{template "owner" .Repo.Name}}.png?size=32" width="16" height="16" alt="{{template "owner" .Repo.Name}}"> [{{.Repo.Name}}]({{.Repo.URL}}) [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}{{- end}}
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
