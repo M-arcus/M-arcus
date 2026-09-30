@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) [fix(extension): generate checksums for symlinked extensions](https://github.com/shopware/shopware-cli/pull/1651) (today)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) [feat(frontend): add rolling median trend to sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/854) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep message queue statistics failures from stopping workers](https://github.com/shopware/shopware/pull/20996) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): upload the document company logo](https://github.com/shopware/shopware/pull/20995) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): show translated sales channel name in review](https://github.com/shopware/shopware/pull/20893) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): use brand primary for icon-primary and name hover](https://github.com/shopware/shopware/pull/20892) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep and restore default privileges in saved roles](https://github.com/shopware/shopware/pull/20845) (6 days ago)
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) [fix(frontend): cap sitespeed timespan filter at 90 days](https://github.com/FriendsOfShopware/shopmon/pull/847) (6 days ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
