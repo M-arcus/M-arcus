@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): use one German term for the privacy notice](https://github.com/shopware/shopware/pull/21188) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): omit the allowance reason code on ZUGFeRD discount charges](https://github.com/shopware/shopware/pull/21187) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): look up each locale once per plugin refresh](https://github.com/shopware/shopware/pull/21186) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): step the rule modal priority by whole numbers](https://github.com/shopware/shopware/pull/21094) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep grouping for limit 1 when a total count is requested](https://github.com/shopware/shopware/pull/21093) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [docs(core): correct the keepUserData description of the uninstall context](https://github.com/shopware/shopware/pull/21092) (3 days ago)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep cleared cms block margins empty](https://github.com/shopware/shopware/pull/20935) (6 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): require a rating when saving a product review](https://github.com/shopware/shopware/pull/20934) (6 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): center the image placeholder in product boxes](https://github.com/shopware/shopware/pull/20933) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): reject input with a trailing newline in regex validations](https://github.com/shopware/shopware/pull/20932) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): enforce a required birthday in the Store API](https://github.com/shopware/shopware/pull/20931) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): reject uuids with a trailing newline](https://github.com/shopware/shopware/pull/20930) (6 days ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
