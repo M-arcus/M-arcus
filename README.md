@@ -22,6 +22,10 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): forward reset to the inner log handler](https://github.com/shopware/shopware/pull/21192) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): key the version route requirements to their placeholders](https://github.com/shopware/shopware/pull/21191) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): confirm the deactivation of a rented extension](https://github.com/shopware/shopware/pull/21190) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep order detail header blocks properly nested](https://github.com/shopware/shopware/pull/21189) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): use one German term for the privacy notice](https://github.com/shopware/shopware/pull/21188) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): omit the allowance reason code on ZUGFeRD discount charges](https://github.com/shopware/shopware/pull/21187) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): look up each locale once per plugin refresh](https://github.com/shopware/shopware/pull/21186) (today)
@@ -43,10 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) [feat(frontend): add rolling median trend to sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/854) (4 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep message queue statistics failures from stopping workers](https://github.com/shopware/shopware/pull/20996) (4 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): upload the document company logo](https://github.com/shopware/shopware/pull/20995) (4 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): show translated document type names](https://github.com/shopware/shopware/pull/20936) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep cleared cms block margins empty](https://github.com/shopware/shopware/pull/20935) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): require a rating when saving a product review](https://github.com/shopware/shopware/pull/20934) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): center the image placeholder in product boxes](https://github.com/shopware/shopware/pull/20933) (6 days ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
