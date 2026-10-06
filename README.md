@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) [Reset translator injection before injecting settings](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/pull/92) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): forward reset to the inner log handler](https://github.com/shopware/shopware/pull/21192) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): key the version route requirements to their placeholders](https://github.com/shopware/shopware/pull/21191) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): confirm the deactivation of a rented extension](https://github.com/shopware/shopware/pull/21190) (3 days ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) [fix(extension): generate checksums for symlinked extensions](https://github.com/shopware/shopware-cli/pull/1651) (6 days ago)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) [feat(frontend): add rolling median trend to sitespeed charts](https://github.com/FriendsOfShopware/shopmon/pull/854) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep message queue statistics failures from stopping workers](https://github.com/shopware/shopware/pull/20996) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): upload the document company logo](https://github.com/shopware/shopware/pull/20995) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
