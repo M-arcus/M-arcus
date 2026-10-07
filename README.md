@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep the referrer on same-window links in sanitized HTML](https://github.com/shopware/shopware/pull/21334) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): wrap long words in the product description](https://github.com/shopware/shopware/pull/21298) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let the review rating filter labels wrap](https://github.com/shopware/shopware/pull/21297) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let badges grow with their text](https://github.com/shopware/shopware/pull/21296) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep keyboard selection in select result lists](https://github.com/shopware/shopware/pull/21090) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep app iframes from blocking sidebar resizing](https://github.com/shopware/shopware/pull/21089) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): pass parameters to update deactivation messages](https://github.com/shopware/shopware/pull/21088) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): guard order index migrations against MySQL bug 118151](https://github.com/shopware/shopware/pull/21087) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
