@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report every level of a deleted tree as deleted](https://github.com/shopware/shopware/pull/21417) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report products deleted earlier in a sync request as deleted](https://github.com/shopware/shopware/pull/21413) (today)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [feat(health): add data integrity checks](https://github.com/FriendsOfShopware/FroshTools/pull/483) (today)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(admin): restore webpack build on Shopware 6.6](https://github.com/FriendsOfShopware/FroshTools/pull/480) (today)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(health): resolve SYSTEM time_zone and skip check on 6.7](https://github.com/FriendsOfShopware/FroshTools/pull/479) (today)
@@ -45,8 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): omit the allowance reason code on ZUGFeRD discount charges](https://github.com/shopware/shopware/pull/21187) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): look up each locale once per plugin refresh](https://github.com/shopware/shopware/pull/21186) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): step the rule modal priority by whole numbers](https://github.com/shopware/shopware/pull/21094) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep grouping for limit 1 when a total count is requested](https://github.com/shopware/shopware/pull/21093) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [docs(core): correct the keepUserData description of the uninstall context](https://github.com/shopware/shopware/pull/21092) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
