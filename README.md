@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Add action that checks integrity of skills and scripts](https://github.com/seobility-net/seobility-mcp-skills/pull/3) (today)
+- <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Fix crashes and wrong verdicts in skill helper scripts](https://github.com/seobility-net/seobility-mcp-skills/pull/2) (today)
+- <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Fix python calls](https://github.com/seobility-net/seobility-mcp-skills/pull/1) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report every level of a deleted tree as deleted](https://github.com/shopware/shopware/pull/21417) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report products deleted earlier in a sync request as deleted](https://github.com/shopware/shopware/pull/21413) (5 days ago)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [feat(health): add data integrity checks](https://github.com/FriendsOfShopware/FroshTools/pull/483) (5 days ago)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): confirm the deactivation of a rented extension](https://github.com/shopware/shopware/pull/21190) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep order detail header blocks properly nested](https://github.com/shopware/shopware/pull/21189) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): use one German term for the privacy notice](https://github.com/shopware/shopware/pull/21188) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): omit the allowance reason code on ZUGFeRD discount charges](https://github.com/shopware/shopware/pull/21187) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): look up each locale once per plugin refresh](https://github.com/shopware/shopware/pull/21186) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): step the rule modal priority by whole numbers](https://github.com/shopware/shopware/pull/21094) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
