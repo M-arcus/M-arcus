@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): load GARAN label products of all line items at once](https://github.com/shopware/shopware/pull/21614) (today)
 - <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Add action that checks integrity of skills and scripts](https://github.com/seobility-net/seobility-mcp-skills/pull/3) (1 day ago)
 - <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Fix crashes and wrong verdicts in skill helper scripts](https://github.com/seobility-net/seobility-mcp-skills/pull/2) (1 day ago)
 - <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) [Fix python calls](https://github.com/seobility-net/seobility-mcp-skills/pull/1) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): key the version route requirements to their placeholders](https://github.com/shopware/shopware/pull/21191) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): confirm the deactivation of a rented extension](https://github.com/shopware/shopware/pull/21190) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep order detail header blocks properly nested](https://github.com/shopware/shopware/pull/21189) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): use one German term for the privacy notice](https://github.com/shopware/shopware/pull/21188) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
