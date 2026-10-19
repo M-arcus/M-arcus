@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep quantity inputs readable on narrow screens](https://github.com/shopware/shopware/pull/21775) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep the address manager modal within narrow screens](https://github.com/shopware/shopware/pull/21774) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep account context menus within narrow screens](https://github.com/shopware/shopware/pull/21773) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): reload entity views when the entity changes](https://github.com/shopware/shopware/pull/21741) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep deliveries of other orders out of an order version](https://github.com/shopware/shopware/pull/21739) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): give each search preference checkbox its own id](https://github.com/shopware/shopware/pull/21737) (3 days ago)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep the referrer on same-window links in sanitized HTML](https://github.com/shopware/shopware/pull/21334) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): wrap long words in the product description](https://github.com/shopware/shopware/pull/21298) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let the review rating filter labels wrap](https://github.com/shopware/shopware/pull/21297) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let badges grow with their text](https://github.com/shopware/shopware/pull/21296) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep the import/export activity grid inside its card](https://github.com/shopware/shopware/pull/21294) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): hide the currency suffix in product price grids](https://github.com/shopware/shopware/pull/21293) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
