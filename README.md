@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): notify the async theme compilation completion only once](https://github.com/shopware/shopware/pull/21779) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): stop search score queries at circular associations](https://github.com/shopware/shopware/pull/21778) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): skip product line items without a product in stock updates](https://github.com/shopware/shopware/pull/21777) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep quantity inputs readable on narrow screens](https://github.com/shopware/shopware/pull/21775) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep the address manager modal within narrow screens](https://github.com/shopware/shopware/pull/21774) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): keep account context menus within narrow screens](https://github.com/shopware/shopware/pull/21773) (today)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(admin): restore webpack build on Shopware 6.6](https://github.com/FriendsOfShopware/FroshTools/pull/480) (1 week ago)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(health): resolve SYSTEM time_zone and skip check on 6.7](https://github.com/FriendsOfShopware/FroshTools/pull/479) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): pass null as DNS resolver of app system trusted URL resolver](https://github.com/shopware/shopware/pull/21364) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep the referrer on same-window links in sanitized HTML](https://github.com/shopware/shopware/pull/21334) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): wrap long words in the product description](https://github.com/shopware/shopware/pull/21298) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let the review rating filter labels wrap](https://github.com/shopware/shopware/pull/21297) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
