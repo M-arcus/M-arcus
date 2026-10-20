@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- <img src="https://github.com/tinect.png?size=32" width="16" height="16" alt="tinect"> [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.4.1](https://github.com/tinect/TinectRedirects/releases/tag/3.4.1), today) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.19.2](https://github.com/shopware/shopware-cli/releases/tag/0.19.2), today) - CLI for Shopware Account and Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.15.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.15.2), 1 day ago) - A collection of useful tools for Shopware 6
 - <img src="https://github.com/TomasVotruba.png?size=32" width="16" height="16" alt="TomasVotruba"> [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.30](https://github.com/TomasVotruba/entropy/releases/tag/0.4.30), 1 week ago) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
@@ -18,7 +19,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 4 months ago) - This plugin allows you to minify your HTML output.
 - <img src="https://github.com/deployphp.png?size=32" width="16" height="16" alt="deployphp"> [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 5 months ago) - The PHP deployment tool with support for popular frameworks out of the box
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 5 months ago) - 
-- <img src="https://github.com/OpenMage.png?size=32" width="16" height="16" alt="OpenMage"> [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.0](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.0), 5 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 
 #### 🔨 My recent Pull Requests
 
