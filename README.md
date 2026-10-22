@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(core): save the title and alt text of a media file with the file](https://github.com/shopware/shopware/pull/21957) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [refactor(administration): use the empty state slot for the stats button](https://github.com/shopware/shopware/pull/21956) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(storefront): add a title to the product description and review tabs](https://github.com/shopware/shopware/pull/21955) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): notify the async theme compilation completion only once](https://github.com/shopware/shopware/pull/21779) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): stop search score queries at circular associations](https://github.com/shopware/shopware/pull/21778) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): skip product line items without a product in stock updates](https://github.com/shopware/shopware/pull/21777) (3 days ago)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report every level of a deleted tree as deleted](https://github.com/shopware/shopware/pull/21417) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): report products deleted earlier in a sync request as deleted](https://github.com/shopware/shopware/pull/21413) (2 weeks ago)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [feat(health): add data integrity checks](https://github.com/FriendsOfShopware/FroshTools/pull/483) (2 weeks ago)
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(admin): restore webpack build on Shopware 6.6](https://github.com/FriendsOfShopware/FroshTools/pull/480) (2 weeks ago)
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(health): resolve SYSTEM time_zone and skip check on 6.7](https://github.com/FriendsOfShopware/FroshTools/pull/479) (2 weeks ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): pass null as DNS resolver of app system trusted URL resolver](https://github.com/shopware/shopware/pull/21364) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
