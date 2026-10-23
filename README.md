@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- <img src="https://github.com/TomasVotruba.png?size=32" width="16" height="16" alt="TomasVotruba"> [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.33](https://github.com/TomasVotruba/entropy/releases/tag/0.4.33), today) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
+- <img src="https://github.com/TomasVotruba.png?size=32" width="16" height="16" alt="TomasVotruba"> [TomasVotruba/entropy](https://github.com/TomasVotruba/entropy) ([0.4.34](https://github.com/TomasVotruba/entropy/releases/tag/0.4.34), today) - Minimalistic PHP framework to build CLI apps, with zero-config DI and automated console commands
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.19.5](https://github.com/shopware/shopware-cli/releases/tag/0.19.5), today) - CLI for Shopware Account and Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.21](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.21), 1 day ago) - Shopware Shop Monitoring
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.15.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.15.3), 2 days ago) - A collection of useful tools for Shopware 6
