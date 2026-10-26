@@ -4,6 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- <img src="https://github.com/OpenMage.png?size=32" width="16" height="16" alt="OpenMage"> [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.18.2](https://github.com/OpenMage/magento-lts/releases/tag/v20.18.2), today) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.22](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.22), today) - Shopware Shop Monitoring
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.1](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.1), today) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.30](https://github.com/shopware/shopware/releases/tag/v6.6.10.30), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
@@ -18,7 +19,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 2 months ago) - Rector rules for Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 4 months ago) - This plugin allows you to minify your HTML output.
 - <img src="https://github.com/deployphp.png?size=32" width="16" height="16" alt="deployphp"> [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 5 months ago) - The PHP deployment tool with support for popular frameworks out of the box
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
