@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [feat(health): list affected records of data integrity checks](https://github.com/FriendsOfShopware/FroshTools/pull/501) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): load all sales channels in lists capped at 25 or 100](https://github.com/shopware/shopware/pull/22017) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): load canonical SEO URLs only of the persisted sales channels](https://github.com/shopware/shopware/pull/22016) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): compile each theme only once in system:update](https://github.com/shopware/shopware/pull/22015) (3 days ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) [fix: cache package responses only in Workers Cache](https://github.com/FriendsOfShopware/shopmon-packages/pull/33) (1 week ago)
 - <img src="https://github.com/symplify.png?size=32" width="16" height="16" alt="symplify"> [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) [Add failing fixture for #[Route] methods](https://github.com/symplify/phpstan-rules/pull/370) (1 week ago)
 - <img src="https://github.com/mollie.png?size=32" width="16" height="16" alt="mollie"> [mollie/Shopware6](https://github.com/mollie/Shopware6) [NTR: download payment method icons into the temp directory](https://github.com/mollie/Shopware6/pull/1537) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): load GARAN label products of all line items at once](https://github.com/shopware/shopware/pull/21614) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
