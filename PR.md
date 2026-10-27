@@ -1,6 +1,6 @@
 # Inactive pull requests
 
-Open PRs by @M-arcus in public repositories without updates since 2026-09-26, most inactive first.
+Open PRs by @M-arcus in public repositories without updates since 2026-09-27, most inactive first.
 
 | Inactive | Last update | Repository | Pull request |
 | ---: | --- | --- | --- |
