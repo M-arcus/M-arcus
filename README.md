@@ -18,7 +18,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfCXML.png?size=32" width="16" height="16" alt="FriendsOfCXML"> [FriendsOfCXML/cxml-php](https://github.com/FriendsOfCXML/cxml-php) ([2.2.5](https://github.com/FriendsOfCXML/cxml-php/releases/tag/2.2.5), 1 month ago) - PHP Implementation of cXML Standard
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.6.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.6.0), 2 months ago) - Rector rules for Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshPlatformHtmlMinify](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify) ([2.4.0](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify/releases/tag/2.4.0), 4 months ago) - This plugin allows you to minify your HTML output.
-- <img src="https://github.com/deployphp.png?size=32" width="16" height="16" alt="deployphp"> [deployphp/deployer](https://github.com/deployphp/deployer) ([v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5), 5 months ago) - The PHP deployment tool with support for popular frameworks out of the box
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
