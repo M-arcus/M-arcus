@@ -22,6 +22,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): select CMS layouts with radio buttons](https://github.com/shopware/shopware/pull/22225) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): keep update modal footer buttons in one row](https://github.com/shopware/shopware/pull/22224) (today)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): hide clear button on required CMS element selects](https://github.com/shopware/shopware/pull/22222) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [test(framework): take the expected retry time from the rate limiter](https://github.com/shopware/shopware/pull/22183) (1 day ago)
 - <img src="https://github.com/rectorphp.png?size=32" width="16" height="16" alt="rectorphp"> [rectorphp/rector-src](https://github.com/rectorphp/rector-src) [Sort root files in withRootFiles() to keep cache hash stable](https://github.com/rectorphp/rector-src/pull/8870) (1 day ago)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) [fix: Replace rules removed in Rector 2.8](https://github.com/FriendsOfShopware/shopware-rector/pull/72) (2 days ago)
@@ -44,9 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): reload entity views when the entity changes](https://github.com/shopware/shopware/pull/21741) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep deliveries of other orders out of an order version](https://github.com/shopware/shopware/pull/21739) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): give each search preference checkbox its own id](https://github.com/shopware/shopware/pull/21737) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep out-of-stock variants inheriting clearance sale in the sitemap](https://github.com/shopware/shopware/pull/21736) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): validate the VAT ID against the billing country](https://github.com/shopware/shopware/pull/21735) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): reload order documents when the order changes](https://github.com/shopware/shopware/pull/21734) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
