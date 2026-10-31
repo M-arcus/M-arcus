@@ -4,7 +4,7 @@ Open PRs by @M-arcus in public repositories without updates since 2026-10-01, mo
 
 | Inactive | Last update | Repository | Pull request |
 | ---: | --- | --- | --- |
-| 52 days | 2026-09-08 | sitespeedio/coach-core | [#181 Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) |
+| 53 days | 2026-09-08 | sitespeedio/coach-core | [#181 Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) |
 | 52 days | 2026-09-08 | sitespeedio/coach-core | [#180 Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) |
 | 43 days | 2026-09-17 | FriendsOfShopware/FroshFlowBuilderInsights | [#5 feat: make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) |
 | 33 days | 2026-09-27 | sitespeedio/coach-core | [#130 Update README.md](https://github.com/sitespeedio/coach-core/pull/130) |
