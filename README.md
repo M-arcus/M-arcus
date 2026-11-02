@@ -4,8 +4,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.31](https://github.com/shopware/shopware/releases/tag/v6.6.10.31), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) ([v1.0.1](https://github.com/seobility-net/seobility-mcp-skills/releases/tag/v1.0.1), today) - Claude skills that turn your Seobility MCP data into clear next steps
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.16.0](https://github.com/shopware/shopware/releases/tag/v6.7.16.0), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - <img src="https://github.com/mollie.png?size=32" width="16" height="16" alt="mollie"> [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v5.8.0](https://github.com/mollie/Shopware6/releases/tag/v5.8.0), today) - Mollie Payments Plugin for Shopware 6
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.19.7](https://github.com/shopware/shopware-cli/releases/tag/0.19.7), today) - CLI for Shopware Account and Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.7.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.7.0), today) - Rector rules for Shopware 6
@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(administration): open a product in the Storefront from its detail page](https://github.com/shopware/shopware/pull/22385) (today)
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(health): allow main product to have cover of variant](https://github.com/FriendsOfShopware/FroshTools/pull/513) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): include criteria in category level loader cache key](https://github.com/shopware/shopware/pull/22349) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): avoid duplicate mail template attachment when sending order documents](https://github.com/shopware/shopware/pull/22348) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): keep previous SEO URLs when persisting sales channels](https://github.com/shopware/shopware/pull/22013) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): regenerate SEO URLs only for sales channels using the changed template](https://github.com/shopware/shopware/pull/22012) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(core): save the title and alt text of a media file with the file](https://github.com/shopware/shopware/pull/21957) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [refactor(administration): use the empty state slot for the stats button](https://github.com/shopware/shopware/pull/21956) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
