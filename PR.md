@@ -4,8 +4,8 @@ Open PRs by @M-arcus in public repositories without updates since 2026-10-04, mo
 
 | Inactive | Last update | Repository | Pull request |
 | ---: | --- | --- | --- |
-| 56 days | 2026-09-08 | sitespeedio/coach-core | [#181 Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) |
-| 56 days | 2026-09-08 | sitespeedio/coach-core | [#180 Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) |
+| 57 days | 2026-09-08 | sitespeedio/coach-core | [#181 Fix IP listening in tests and enhance DOM bundle assertions](https://github.com/sitespeedio/coach-core/pull/181) |
+| 57 days | 2026-09-08 | sitespeedio/coach-core | [#180 Don't flag images served modern via Accept negotiation](https://github.com/sitespeedio/coach-core/pull/180) |
 | 47 days | 2026-09-17 | FriendsOfShopware/FroshFlowBuilderInsights | [#5 feat: make compatible with Shopware 6.6](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/pull/5) |
 | 37 days | 2026-09-27 | sitespeedio/coach-core | [#130 Update README.md](https://github.com/sitespeedio/coach-core/pull/130) |
 | 37 days | 2026-09-27 | Webwirkung/webwirkung-property-merger | [#6 Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) |
