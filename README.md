@@ -4,9 +4,9 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.5), today) - A collection of useful tools for Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.24](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.24), 1 day ago) - Shopware Shop Monitoring
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.19.8](https://github.com/shopware/shopware-cli/releases/tag/0.19.8), 1 day ago) - CLI for Shopware Account and Shopware 6
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.4), 1 day ago) - A collection of useful tools for Shopware 6
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.31](https://github.com/shopware/shopware/releases/tag/v6.6.10.31), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - <img src="https://github.com/seobility-net.png?size=32" width="16" height="16" alt="seobility-net"> [seobility-net/seobility-mcp-skills](https://github.com/seobility-net/seobility-mcp-skills) ([v1.0.1](https://github.com/seobility-net/seobility-mcp-skills/releases/tag/v1.0.1), 2 days ago) - Claude skills that turn your Seobility MCP data into clear next steps
 - <img src="https://github.com/mollie.png?size=32" width="16" height="16" alt="mollie"> [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v5.8.0](https://github.com/mollie/Shopware6/releases/tag/v5.8.0), 2 days ago) - Mollie Payments Plugin for Shopware 6
@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [fix(api): add default acls to shopmon role](https://github.com/FriendsOfShopware/FroshTools/pull/516) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [refactor(administration): migrate imitate customer modal to mt-modal](https://github.com/shopware/shopware/pull/22461) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(storefront): add skip link for listing filters](https://github.com/shopware/shopware/pull/22457) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [test(core): replace QueryBuilderDataExtractor with getSQL assertions](https://github.com/shopware/shopware/pull/22456) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) [feat(health): list affected records of data integrity checks](https://github.com/FriendsOfShopware/FroshTools/pull/501) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): load all sales channels in lists capped at 25 or 100](https://github.com/shopware/shopware/pull/22017) (1 week ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): load canonical SEO URLs only of the persisted sales channels](https://github.com/shopware/shopware/pull/22016) (1 week ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): compile each theme only once in system:update](https://github.com/shopware/shopware/pull/22015) (1 week ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
