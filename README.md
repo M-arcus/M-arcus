@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): store cheapest price sales channel ids once per product](https://github.com/shopware/shopware/pull/22598) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): wrap long notification messages (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22518) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): reset the canonical product of duplicated variants (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22517) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix: Reset canonical product id on product clone through the administration (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22516) (1 day ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): set null references of entities removed by cascade deletes (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22495) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): let the filter offcanvas header grow with larger text (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22494) (1 day ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): enforce a required birthday in the Store API (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22493) (1 day ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): omit the allowance reason code on ZUGFeRD discount charges (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22492) (1 day ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
