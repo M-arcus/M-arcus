@@ -4,7 +4,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔭 Latest releases I've contributed to
 
-- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.5), 4 days ago) - A collection of useful tools for Shopware 6
+- <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.6](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.6), today) - A collection of useful tools for Shopware 6
 - <img src="https://github.com/FriendsOfShopware.png?size=32" width="16" height="16" alt="FriendsOfShopware"> [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.24](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.24), 5 days ago) - Shopware Shop Monitoring
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([0.19.8](https://github.com/shopware/shopware-cli/releases/tag/0.19.8), 5 days ago) - CLI for Shopware Account and Shopware 6
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.31](https://github.com/shopware/shopware/releases/tag/v6.6.10.31), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
