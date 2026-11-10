@@ -22,6 +22,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [docs(agent-skills): require both ResetInterface and the kernel.reset tag in sw-review](https://github.com/shopware/shopware/pull/22782) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(storefront): load themes once per runtime config refresh](https://github.com/shopware/shopware/pull/22693) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(checkout): load only global and own sales channel document configs](https://github.com/shopware/shopware/pull/22692) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): load the product exports of all sales channels with one query](https://github.com/shopware/shopware/pull/22691) (3 days ago)
@@ -46,7 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(administration): show category breadcrumb in SEO main category select](https://github.com/shopware/shopware/pull/22600) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): store cheapest price sales channel ids once per product](https://github.com/shopware/shopware/pull/22598) (5 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): wrap long notification messages (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22518) (6 days ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(administration): reset the canonical product of duplicated variants (backport: 6.6.x)](https://github.com/shopware/shopware/pull/22517) (6 days ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
