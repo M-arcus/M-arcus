@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marcus M&#252;ller&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Contributions: 16991, Total Commits  (last year) : 4223, Total PRs: 2545, Total PRs Merged: 2418, Merged PRs Percentage: 95.01, PRs Commented: 544, Contributed to (last year): 53, Contributed to (all time): 123</desc>
+        <desc id="descId">Total Contributions: 16992, Total Commits  (last year) : 4224, Total PRs: 2545, Total PRs Merged: 2419, Merged PRs Percentage: 95.05, PRs Commented: 544, Contributed to (last year): 53, Contributed to (all time): 123</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.35914466849617;
+        stroke-dashoffset: 68.35914371488039;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >95.01 %</text>
+      >95.05 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3AM-arcus+-author%3AM-arcus&amp;type=pullrequests">
