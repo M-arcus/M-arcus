@@ -46,7 +46,7 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): reset sales channel theme loader between requests](https://github.com/shopware/shopware/pull/22646) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(storefront): dump the static theme config once per theme](https://github.com/shopware/shopware/pull/22645) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(administration): show category breadcrumb in SEO main category select](https://github.com/shopware/shopware/pull/22600) (2 weeks ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(core): store cheapest price sales channel ids once per product](https://github.com/shopware/shopware/pull/22598) (2 weeks ago)
+- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): store cheapest price sales channel ids once per product](https://github.com/shopware/shopware/pull/22598) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
