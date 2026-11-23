@@ -11,4 +11,3 @@ Open PRs by @M-arcus in public repositories without updates since 2026-10-23, mo
 | 56 days | 2026-09-27 | Webwirkung/webwirkung-property-merger | [#6 Update README with installation and usage instructions](https://github.com/Webwirkung/webwirkung-property-merger/pull/6) |
 | 56 days | 2026-09-27 | cleverpush/cleverpush-shopware-plugin | [#4 Add SalesChannelContext to CleverPushWorkerJsController](https://github.com/cleverpush/cleverpush-shopware-plugin/pull/4) |
 | 56 days | 2026-09-27 | php-parallel-lint/PHP-Parallel-Lint | [#203 Add cache functionality](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/203) |
-| 33 days | 2026-10-20 | shopware/shopware | [#21334 fix(core): keep the referrer on same-window links in sanitized HTML](https://github.com/shopware/shopware/pull/21334) |
