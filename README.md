@@ -22,6 +22,8 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 
 #### 🔨 My recent Pull Requests
 
+- <img src="https://github.com/codiversegbr.png?size=32" width="16" height="16" alt="codiversegbr"> [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) [Aggregate and memoize customer order statistics (6.3.x)](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/99) (today)
+- <img src="https://github.com/codiversegbr.png?size=32" width="16" height="16" alt="codiversegbr"> [codiversegbr/DtgsGoogleTagManagerSw6](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6) [Aggregate and memoize customer order statistics](https://github.com/codiversegbr/DtgsGoogleTagManagerSw6/pull/98) (today)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(administration): load address, sales channel and variant selects page by page](https://github.com/shopware/shopware/pull/23259) (3 days ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [docs(agent-skills): require both ResetInterface and the kernel.reset tag in sw-review](https://github.com/shopware/shopware/pull/22782) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(storefront): load themes once per runtime config refresh](https://github.com/shopware/shopware/pull/22693) (2 weeks ago)
@@ -45,8 +47,6 @@ Hello, I am Marcus Müller, Senior Software Engineer with over 10 years of exper
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(storefront): refresh the import map once per theme on extension changes](https://github.com/shopware/shopware/pull/22647) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [fix(storefront): reset sales channel theme loader between requests](https://github.com/shopware/shopware/pull/22646) (2 weeks ago)
 - <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(storefront): dump the static theme config once per theme](https://github.com/shopware/shopware/pull/22645) (2 weeks ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [feat(administration): show category breadcrumb in SEO main category select](https://github.com/shopware/shopware/pull/22600) (2 weeks ago)
-- <img src="https://github.com/shopware.png?size=32" width="16" height="16" alt="shopware"> [shopware/shopware](https://github.com/shopware/shopware) [perf(core): store cheapest price sales channel ids once per product](https://github.com/shopware/shopware/pull/22598) (2 weeks ago)
 
 ![](https://komarev.com/ghpvc/?username=M-arcus&color=lightgray&style=flat&label=Visitors+since+2025-12-10)
 
